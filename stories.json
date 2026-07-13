@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "A búvár és a leégett erdő",
+      "riddle": "Egy hatalmas erdőtűz eloltása után az egyik leégett fenyőfa tetején egy teljesen felszerelt könnyűbúvár holttestét találják meg. Mi történt?",
+      "solution": "Egy tűzoltó repülőgép vizet merített a közeli tóból a tűz oltásához, és a vízzel együtt a gyanútlan búvárt is felszippantotta, majd a lángoló erdőre dobta.",
+      "category": "tragic",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "title": "A bezárt szoba esete",
+      "riddle": "Egy férfi egy teljesen üres, belülről kulcsra zárt szoba közepén lóg a plafonra szerelt kötélen. Nincs alatta sem szék, sem asztal, csak egy pocsolya a lába alatt. Hogyan követte el az öngyilkosságot?",
+      "solution": "A férfi egy hatalmas jégtömbre állt fel, hogy elérje a kötelet és a nyakára hurkolja. A jég idővel teljesen elolvadt, ő pedig megfulladt. A pocsolya az elolvadt jégből maradt.",
+      "category": "mystery",
+      "difficulty": "easy"
+    }
+  ]
