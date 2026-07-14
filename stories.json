@@ -1,18 +1,3032 @@
 [
-    {
-      "id": 1,
+  {
+    "id": 1,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
       "title": "A búvár és a leégett erdő",
       "riddle": "Egy hatalmas erdőtűz eloltása után az egyik leégett fenyőfa tetején egy teljesen felszerelt könnyűbúvár holttestét találják meg. Mi történt?",
-      "solution": "Egy tűzoltó repülőgép vizet merített a közeli tóból a tűz oltásához, és a vízzel együtt a gyanútlan búvárt is felszippantotta, majd a lángoló erdőre dobta.",
-      "category": "tragic",
-      "difficulty": "medium"
+      "solution": "Egy tűzoltó repülőgép vizet merített a közeli tóból a tűz oltásához, és a vízzel együtt a gyanútlan búvárt is felszippantotta, majd a lángoló erdőre dobta."
     },
-    {
-      "id": 2,
+    "en": {
+      "title": "The Diver and the Burnt Forest",
+      "riddle": "After a massive forest fire is put out, the body of a fully equipped scuba diver is found at the top of a burnt pine tree. What happened?",
+      "solution": "A firefighting plane scooped up water from a nearby lake to extinguish the fire. It accidentally sucked up the unsuspecting diver along with the water and dropped him onto the burning forest."
+    }
+  },
+  {
+    "id": 2,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
       "title": "A bezárt szoba esete",
       "riddle": "Egy férfi egy teljesen üres, belülről kulcsra zárt szoba közepén lóg a plafonra szerelt kötélen. Nincs alatta sem szék, sem asztal, csak egy pocsolya a lába alatt. Hogyan követte el az öngyilkosságot?",
-      "solution": "A férfi egy hatalmas jégtömbre állt fel, hogy elérje a kötelet és a nyakára hurkolja. A jég idővel teljesen elolvadt, ő pedig megfulladt. A pocsolya az elolvadt jégből maradt.",
-      "category": "mystery",
-      "difficulty": "easy"
+      "solution": "A férfi egy hatalmas jégtömbre állt fel, hogy elérje a kötelet és a nyakára hurkolja. A jég idővel teljesen elolvadt, ő pedig megfulladt. A pocsolya az elolvadt jégből maradt."
+    },
+    "en": {
+      "title": "The Case of the Locked Room",
+      "riddle": "A man is found hanging from the ceiling in the middle of a completely empty room, locked from the inside. There is no chair or table beneath him, only a puddle of water at his feet. How did he commit suicide?",
+      "solution": "The man stood on a giant block of ice to reach the rope and tie it around his neck. Over time, the ice completely melted, causing him to hang, leaving only the puddle of water on the floor."
     }
-  ]
+  },
+  {
+    "id": 3,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A postai küldemény",
+      "riddle": "Egy férfi kap egy csomagot a postán, amiben egy levágott emberi kar van. Megvizsgálja, majd visszacsomagolja és elküldi egy másik férfinak. Miért?",
+      "solution": "Három hajótörött megegyezett egy lakatlan szigeten, hogy levágják az egyik karjukat, hogy megegyék és életben maradjanak. Az első, aki orvos volt, levágta a sajátját. Miután megmenekültek, a másik kettőnek is teljesítenie kellett az ígéretet. Az orvos azért kapta meg a kart, hogy ellenőrizze, valódi-e, majd továbbküldte a harmadik társuknak."
+    },
+    "en": {
+      "title": "The Postal Package",
+      "riddle": "A man receives a package in the mail containing a severed human arm. He inspects it, packs it back up, and mails it to another man. Why?",
+      "solution": "Three shipwrecked men on a deserted island agreed to amputate one arm each to eat and survive. The first man, a doctor, amputated his own. After being rescued, the other two had to fulfill their promise. The doctor received the arm to verify it was real, then forwarded it to their third companion."
+    }
+  },
+  {
+    "id": 4,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Rómeó és Júlia",
+      "riddle": "Rómeó és Júlia holtan fekszenek a szoba padlóján. Körülöttük üvegszilánkok és egy pocsolya látható. A szoba ajtaja és ablaka zárva volt, idegen behatolásnak nyoma sincs. Mi történt?",
+      "solution": "Rómeó és Júlia valójában aranyhalak voltak. A szél vagy egy háziállat leverte az asztalról az akváriumukat, ami összetört, ők pedig megfulladtak a szárazon."
+    },
+    "en": {
+      "title": "Romeo and Juliet",
+      "riddle": "Romeo and Juliet are lying dead on the floor of a room. Around them are shards of glass and a puddle of water. The door and windows of the room were locked, and there is no sign of forced entry. What happened?",
+      "solution": "Romeo and Juliet were actually goldfish. The wind or a pet knocked their fishbowl off the table, which shattered, causing them to suffocate."
+    }
+  },
+  {
+    "id": 5,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A törött gyufaszál",
+      "riddle": "Egy teljesen meztelen férfi fekszik holtan a sivatag közepén. A kezében egy törött gyufaszálat szorít. Semmilyen lábnyom vagy jármű nyoma nem látható a közelben. Hogyan halt meg?",
+      "solution": "A férfi több társával együtt egy hőlégballonnal utazott, amely veszített a magasságából és zuhanni kezdett. Hogy könnyítsenek a súlyon, kidobálták az összes homokzsákot és a ruháikat is, de ez sem volt elég. Végül gyufaszálat húztak, hogy ki ugorjon ki, hogy megmentse a többieket. A férfi a törött szálat húzta, így neki kellett a mélybe ugrania."
+    },
+    "en": {
+      "title": "The Broken Matchstick",
+      "riddle": "A completely naked man is found dead in the middle of the desert, clutching a broken matchstick in his hand. No footprints or vehicle tracks are nearby. How did he die?",
+      "solution": "The man was traveling in a hot air balloon with others when it began losing altitude and crashing. To lighten the load, they threw out all sandbags and their clothes, but it wasn't enough. They drew matches to decide who would jump to save the rest. He drew the broken matchstick and had to jump."
+    }
+  },
+  {
+    "id": 6,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A sötét alagút",
+      "riddle": "Egy férfi, aki nemrég nyerte vissza a látását egy sikeres szemműtét után, vonattal utazik hazafelé. Amikor a vonat áthalad egy alagúton, a férfi hirtelen kiugrik a száguldó vonatból és szörnyethal. Miért tette?",
+      "solution": "Amikor a vonat belépett a sötét alagútba, hirtelen minden elsötétült. A férfi azt hitte, hogy a műtét sikertelen volt, és végleg visszaesett a vakságba. Elkeseredésében és sokkhatás alatt öngyilkos lett."
+    },
+    "en": {
+      "title": "The Dark Tunnel",
+      "riddle": "A man who recently regained his sight after a successful eye surgery is traveling home by train. When the train passes through a tunnel, the man suddenly jumps out of the speeding train and dies. Why did he do it?",
+      "solution": "When the train entered the dark tunnel, everything suddenly went black. The man believed his surgery had failed and he had permanently gone blind again. Overwhelmed by despair and shock, he committed suicide."
+    }
+  },
+  {
+    "id": 7,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A bűntudat",
+      "riddle": "Egy férfi hazatér a munkából, leoltja a villanyt, majd lefekszik aludni. Másnap reggel belenéz az újságba, hirtelen elsápad, majd kiugrik az emeleti ablakon és meghal. Miért?",
+      "solution": "A férfi világítótorony-őrként dolgozott. Aznap este nagyon fáradt volt, és felelőtlenül lekapcsolta a világítótorony fő fényét, mielőtt lefeküdt aludni. Másnap reggel a hírekben olvasta, hogy egy óriási utasszállító hajó emiatt zátonyra futott, és több száz ember lelte halálát a tengerben. A bűntudat elől menekülve végzett magával."
+    },
+    "en": {
+      "title": "The Guilt",
+      "riddle": "A man returns home from work, turns off the light, and goes to sleep. The next morning, he looks at the newspaper, turns pale, jumps out of his upstairs window, and dies. Why?",
+      "solution": "The man was a lighthouse keeper. That night, he was extremely tired and irresponsibly turned off the main lighthouse light before going to bed. The next morning, he read in the news that a massive passenger ship had crashed into the reefs because of this, killing hundreds. Consumed by guilt, he jumped."
+    }
+  },
+  {
+    "id": 8,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Kérnék egy pohár vizet!",
+      "riddle": "Egy férfi besétál egy bárba, és kér egy pohár vizet a pultostól. A pultos hirtelen előránt egy fegyvert a pult alól, és egyenesen a férfira fogja. A férfi erre azt mondja: 'Köszönöm!', majd elégedetten kisétál a bárból. Mi történt?",
+      "solution": "A férfinak nagyon erős csuklása volt, ezért akart vizet inni. A pultos ezt észrevette, és úgy döntött, hogy inkább szándékosan megijeszti a fegyverrel, hogy elmúljon a csuklása. A trükk bevált, a férfi megijedt, elmúlt a csuklása, így megköszönte a segítséget és távozott."
+    },
+    "en": {
+      "title": "A Glass of Water, Please!",
+      "riddle": "A man walks into a bar and asks the bartender for a glass of water. The bartender suddenly pulls a gun from under the counter and points it directly at the man. The man says, 'Thank you!', and walks out happily. What happened?",
+      "solution": "The man had a severe case of hiccups and wanted water to cure it. Seeing this, the bartender decided to scare him with the gun instead. The scare worked, curing the hiccups instantly. The man thanked him and left."
+    }
+  },
+  {
+    "id": 9,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Az alacsony utas",
+      "riddle": "Egy férfi egy társasház tizedik emeletén lakik. Amikor reggel elmegy dolgozni, lemegy a lifttel a földszintre. Amikor este hazajön, felmegy a lifttel a hetedik emeletig, majd onnan gyalog megy fel a tizedikre. Esős napokon viszont közvetlenül a tizedik emeletig utazik a lifttel. Miért?",
+      "solution": "A férfi nagyon alacsony termetű (törpe), és fizikai korlátai miatt normál esetben csak a lift paneljének 7-es gombjáig ér fel a kezével. Esős napokon viszont nála van a hosszú esernyője, aminek a hegyével eléri a 10-es gombot is."
+    },
+    "en": {
+      "title": "The Short Passenger",
+      "riddle": "A man lives on the tenth floor of an apartment building. In the morning, he takes the elevator to the ground floor to go to work. In the evening, he takes the elevator to the seventh floor and walks the rest of the way up. On rainy days, he goes straight to the tenth floor. Why?",
+      "solution": "The man is a dwarf. He can only reach as high as the 7th-floor button on the elevator panel. However, on rainy days, he carries his umbrella and uses its tip to press the 10th-floor button."
+    }
+  },
+  {
+    "id": 10,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "Az albatroszhús",
+      "riddle": "Egy férfi besétál egy tengerparti étterembe, és albatroszhúst rendel. Megkóstolja az első falatot, majd hazamegy és főbe lövi magát. Miért tette?",
+      "solution": "A férfi évekkel korábban hajótörést szenvedett a feleségével és egy barátjával. A felesége odaveszett, a két túlélő pedig éhezett a lakatlan szigeten. A barátja egyszer húst főzött neki, és azt hazudta rá, hogy egy albatroszt sikerült fognia. Amikor a férfi most megkóstolta a valódi albatroszhúst, rájött, hogy az íze teljesen más – vagyis a szigeten a barátja valójában az elhunyt felesége húsát etette meg vele, hogy életben tartsa."
+    },
+    "en": {
+      "title": "Albatross Meat",
+      "riddle": "A man walks into a seaside restaurant and orders albatross meat. After taking his first bite, he goes home and shoots himself. Why did he do it?",
+      "solution": "Years ago, the man was shipwrecked with his wife and a friend. His wife died, and the survivors starved. His friend cooked some meat, claiming it was albatross. When the man tasted real albatross at the restaurant, he realized it tasted completely different—meaning his friend had actually fed him the flesh of his deceased wife to keep him alive."
+    }
+  },
+  {
+    "id": 11,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A rádióműsor",
+      "riddle": "Egy férfi vezetés közben bekapcsolja a rádiót, hallgatja egy kicsit, majd félrehúzódik és főbe lövi magát. Miért?",
+      "solution": "A férfi rádiós műsorvezető volt. Megölte a feleségét, és alibinek egy előre felvett adást játszott be. Útközben bekapcsolta a rádiót, de a szalag megakadt és ismételt, így rájött, hogy az alibije összeomlott és le fog bukni."
+    },
+    "en": {
+      "title": "The Radio Show",
+      "riddle": "A man driving a car turns on the radio, listens for a moment, pulls over, and shoots himself. Why?",
+      "solution": "The man was a radio DJ. He had murdered his wife and set up a pre-recorded show as his alibi. While driving, he turned on the radio and heard the tape skipping/looping. He realized his alibi was ruined and he was going to be caught."
+    }
+  },
+  {
+    "id": 12,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A jeges tea",
+      "riddle": "Két nő beül egy étterembe és mindketten ugyanazt a jeges teát rendelik. Az egyikük nagyon szomjas, és azonnal megissza az egészet. A másikuk lassan kortyolgatja. Aki gyorsan ivott, életben marad, a másik nő meghal. Miért?",
+      "solution": "A méreg a jégkockákban volt. Mivel az első nő nagyon gyorsan megitta a teát, a jégnek nem volt ideje elolvadni, így a méreg sem szabadult fel. A második nőnél a jég elolvadt, így a teája mérgezővé vált."
+    },
+    "en": {
+      "title": "The Iced Tea",
+      "riddle": "Two women have lunch together and order the same iced tea. One is very thirsty and drinks it down quickly. The other sips slowly. The fast drinker lives; the slow drinker dies. Why?",
+      "solution": "The poison was in the ice cubes. Because the first woman drank her tea so quickly, the ice didn't have time to melt, keeping the poison trapped. The second woman's ice melted, releasing the poison into her drink."
+    }
+  },
+  {
+    "id": 13,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A kötéltáncos",
+      "riddle": "Egy vakmerő kötéltáncos a magasban sétál a feszülő kötélen. Hirtelen egy zene hallatszik, majd a zene hirtelen elhallgat, és a kötéltáncos a mélybe zuhan. Miért?",
+      "solution": "A kötéltáncos vak volt, és a cirkuszi zenekar lassú ütemére lépkedett. Amikor a zene hirtelen elhallgatott, elvesztette az egyensúlyát és a ritmust, így leesett."
+    },
+    "en": {
+      "title": "The Tightrope Walker",
+      "riddle": "A daring tightrope walker is performing high in the air. Suddenly, music starts, then abruptly stops, and the tightrope walker falls to their death. Why?",
+      "solution": "The tightrope walker was blind and relied on the slow, steady rhythm of the circus band to time their steps. When the music stopped unexpectedly, they lost their footing and fell."
+    }
+  },
+  {
+    "id": 14,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A répa és a sál",
+      "riddle": "Egy udvar közepén egy sárgarépa, néhány széndarab és egy sál hever a fűben. Senki sem hagyta el őket ott szándékosan. Hogyan kerültek oda?",
+      "solution": "Egy hóember maradványai, amely a tavaszi melegben teljesen elolvadt, csak a kiegészítőit hagyva maga után."
+    },
+    "en": {
+      "title": "The Carrot and the Scarf",
+      "riddle": "A carrot, a few pieces of coal, and a scarf are lying on the grass in the middle of a yard. No one left them there on purpose. How did they get there?",
+      "solution": "They are the remains of a snowman that completely melted in the warm spring weather, leaving only its accessories behind."
+    }
+  },
+  {
+    "id": 15,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "Az 53 kártyalap",
+      "riddle": "Egy férfit holtan találnak egy zárt szobában. Az asztalon egy pisztoly és pontosan 53 darab 'Bicycle' márkájú kártyalap fekszik körülötte. Miért halt meg?",
+      "solution": "A férfi kártyacsaló volt. Egy pakli francia kártyában csak 52 lap van. A játékostársai észrevették, hogy nála van az 53. lap is (vagyis csalt), és dühükben lelőtték."
+    },
+    "en": {
+      "title": "The 53 Playing Cards",
+      "riddle": "A man is found dead in a locked room. On the table next to him is a gun and exactly 53 'Bicycle' playing cards. Why did he die?",
+      "solution": "The man was a card cheat. A standard deck of cards has 52 cards. His fellow players discovered he had a 53rd card (proof of cheating) and shot him on the spot."
+    }
+  },
+  {
+    "id": 16,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A mezőn fekvő férfi",
+      "riddle": "Egy férfi holtan fekszik egy mező közepén. Egy bontatlan csomag van a hátán. Ha kinyitotta volna a csomagot, még mindig élne. Mi van a csomagban?",
+      "solution": "A csomag egy ejtőernyő volt, ami nem nyílt ki ugrás közben."
+    },
+    "en": {
+      "title": "The Man in the Field",
+      "riddle": "A man is found dead in the middle of a field. He has an unopened package on his back. If he had opened the package, he would still be alive. What is in the package?",
+      "solution": "The package was a parachute that failed to open during his jump."
+    }
+  },
+  {
+    "id": 17,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A faház a hegyen",
+      "riddle": "Egy összeroncsolódott faházat találnak a hegyen, benne harminc holttesttel. A faháznak nincs ajtaja, sem ablaka, mégis mindenki ott lelte halálát. Mi történt?",
+      "solution": "A 'faház' valójában egy repülőgép utastere (angolul 'cabin'), amely nekicsapódott a hegyoldalnak."
+    },
+    "en": {
+      "title": "The Cabin in the Mountains",
+      "riddle": "A wrecked cabin is found in the mountains with thirty dead bodies inside. The cabin has no doors or windows, yet everyone died inside. What happened?",
+      "solution": "The 'cabin' was actually the cabin of an airplane that crashed into the mountainside."
+    }
+  },
+  {
+    "id": 18,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A halálos cipők",
+      "riddle": "Egy nő vesz egy pár vadonatúj cipőt. Aznap elmegy dolgozni, majd néhány órával később meghal. Hogyan köthető a halála a cipőhöz?",
+      "solution": "A nő egy késdobáló assziszteste volt. Az új magassarkú cipője miatt néhány centivel magasabb lett a megszokottnál, így a dobó által elhajított kés pont eltalálta őt."
+    },
+    "en": {
+      "title": "The Fatal Shoes",
+      "riddle": "A woman buys a pair of brand new shoes. She goes to work that day and dies a few hours later. How is her death connected to the shoes?",
+      "solution": "The woman was a knife-thrower's assistant. Her new high-heeled shoes made her a few inches taller than usual, causing the thrown knife to strike her."
+    }
+  },
+  {
+    "id": 19,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Az öngyilkos magnó",
+      "riddle": "Egy férfit holtan találnak a szobájában, kezében pisztollyal. Az asztalon egy diktafon fekszik. A rendőrség lejátssza: 'Nincs miért élnem...' majd egy lövés hallatszik. A nyomozó azonnal tudja, hogy gyilkosság történt. Honnan?",
+      "solution": "Ha a férfi valóban öngyilkos lett volna, nem tudta volna a lövés után visszatekerni a szalagot a lejátszás elejére. Mivel a felvétel az elejéről indult, valaki más tekerte vissza."
+    },
+    "en": {
+      "title": "The Tape Recorder Murder",
+      "riddle": "A man is found dead in his room with a gun in his hand. A tape recorder lies on the table. The police play it: 'I have no reason to live...' followed by a gunshot. The detective instantly knows it was murder. How?",
+      "solution": "If the man had committed suicide, he wouldn't have been able to rewind the tape after shooting himself. Since the tape was rewound to the beginning, someone else must have done it."
+    }
+  },
+  {
+    "id": 20,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A hangos zuhanás",
+      "riddle": "Egy férfi egy felhőkarcoló 25. emeletén tisztítja az ablakot. Hirtelen megcsúszik, és leesik az alatta lévő betonra. Bár semmilyen védőfelszerelése nem volt, karcolások nélkül megússza. Hogyan?",
+      "solution": "A férfi az ablakot belülről tisztította, így csak a szoba szőnyegére esett rá."
+    },
+    "en": {
+      "title": "The Window Cleaner",
+      "riddle": "A man is cleaning windows on the 25th floor of a skyscraper. Suddenly, he slips and falls onto the concrete below. Although he had no safety gear, he survives without a scratch. How?",
+      "solution": "The man was cleaning the windows from the inside of the building, so he only fell onto the room's carpet."
+    }
+  },
+  {
+    "id": 21,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Olvasás a sötétben",
+      "riddle": "Egy férfi egy teljesen sötét szobában ül. Nincs felkapcsolva a villany, nem ég gyertya, ő mégis boldogan olvas egy könyvet. Hogyan lehetséges ez?",
+      "solution": "A férfi vak, és Braille-írással írt könyvet olvas a tapintása segítségével."
+    },
+    "en": {
+      "title": "Reading in the Dark",
+      "riddle": "A man is sitting in a pitch-black room. There are no lights on, no candles burning, yet he is happily reading a book. How is this possible?",
+      "solution": "The man is blind and is reading a book written in Braille using his sense of touch."
+    }
+  },
+  {
+    "id": 22,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A halálos könyv",
+      "riddle": "Egy gazdag könyvgyűjtőt holtan találnak a dolgozószobájában. Nincs nyoma erőszaknak, a boncolás viszont mérgezést állapít meg. A nyomozó észreveszi, hogy a férfi az ujját megnyalva lapozta a könyvét. Hogyan halt meg?",
+      "solution": "A könyv lapjainak szélét halálos méreggel vonták be. A férfi minden lapozásnál egy kis mérget juttatott a szervezetébe, amikor megnyalta az ujját."
+    },
+    "en": {
+      "title": "The Poisoned Book",
+      "riddle": "A wealthy book collector is found dead in his study. There is no sign of violence, but the autopsy reveals poisoning. The detective notices the man licked his finger to turn the pages. How did he die?",
+      "solution": "The edges of the book's pages were coated with a deadly poison. The man ingested a small amount of poison every time he licked his finger to turn a page."
+    }
+  },
+  {
+    "id": 23,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Futás a maszkos elől",
+      "riddle": "Egy férfi lélekszakadva fut egy folyosón. Hirtelen befordul egy sarkon, meglát egy maszkos embert, mire azonnal megáll, megfordul, és visszarohan oda, ahonnan jött. Miért?",
+      "solution": "Egy baseball-mérkőzésen vagyunk. A futó játékos megpróbált hazafutni (home plate), de meglátta a maszkos elkapót (catcher), akinél ott volt a labda, így inkább visszafutott a harmadik bázisra."
+    },
+    "en": {
+      "title": "Running from the Masked Man",
+      "riddle": "A man is running for his life down a corridor. Suddenly, he turns a corner, sees a masked man, stops immediately, and runs back the way he came. Why?",
+      "solution": "This is a baseball game. The runner was trying to score (reach home plate) but saw the masked catcher waiting with the ball, so he ran back to third base."
+    }
+  },
+  {
+    "id": 24,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "Az öt férfi az esőben",
+      "riddle": "Öt férfi sétál az utcán, amikor hirtelen elered az eső. Négyen szaporázzák a lépteiket, mégis teljesen bőrig áznak. Az ötödik férfi meg sem mozdul, nem is siet, mégis teljesen száraz marad. Hogyan?",
+      "solution": "Az ötödik férfi már halott volt, és a másik négy férfi vitte őt a koporsójában a temetésre."
+    },
+    "en": {
+      "title": "Five Men in the Rain",
+      "riddle": "Five men are walking down the street when it suddenly starts to rain. Four of them quicken their pace but get soaked. The fifth man doesn't move or hurry, yet stays completely dry. How?",
+      "solution": "The fifth man was already dead, and the other four men were carrying him in his coffin to the funeral."
+    }
+  },
+  {
+    "id": 25,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A napsütéses éjszaka",
+      "riddle": "Egy sofőr fényszórók nélkül vezet egy teljesen fekete autót. Az utcai lámpák nem égnek, a holdat felhők takarják. Hirtelen egy fekete macska ugrik az autó elé. A sofőr satuféket nyom, és elkerüli a gázolást. Hogyan látta meg?",
+      "solution": "Napközben történt az eset, hétágágra sütött a nap."
+    },
+    "en": {
+      "title": "The Sunny Night",
+      "riddle": "A driver is operating a black car with no headlights. The streetlights are off, and the moon is covered by clouds. Suddenly, a black cat crosses the road. The driver slams on the brakes and avoids it. How did he see it?",
+      "solution": "The incident happened during the day under bright sunlight."
+    }
+  },
+  {
+    "id": 26,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A kabrió gyilkosság",
+      "riddle": "Egy férfit holtan találnak a saját autójában. Lelőtték, de az összes ajtó belülről zárva van, az ablakok épek és fel vannak húzva. A kocsin nincs golyó ütötte nyom. Hogyan gyilkolták meg?",
+      "solution": "A férfi egy kabrióban ült, aminek le volt engedve a teteje. A gyilkos felülről lőtt rá."
+    },
+    "en": {
+      "title": "The Convertible Murder",
+      "riddle": "A man is found dead in his car. He was shot, but all doors are locked from the inside, and the windows are intact and rolled up. There are no bullet holes in the car body. How was he killed?",
+      "solution": "The man was in a convertible with the top down. The killer shot him from above."
+    }
+  },
+  {
+    "id": 27,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A süket papagáj",
+      "riddle": "Egy nő vesz egy papagájt. Az eladó garantálja, hogy a madár minden szót megismétel, amit hall. Egy hét múlva a nő dühösen viszi vissza, mert a papagáj meg sem mukkant, pedig az eladó igazat mondott. Miért?",
+      "solution": "A papagáj teljesen süket volt, így semmit sem hallott, amit megismételhetett volna."
+    },
+    "en": {
+      "title": "The Deaf Parrot",
+      "riddle": "A woman buys a parrot. The seller guarantees the bird will repeat every word it hears. A week later, the woman returns it angry because the parrot hasn't spoken a single word, yet the seller told the truth. Why?",
+      "solution": "The parrot was completely deaf, so it didn't hear any words to repeat."
+    }
+  },
+  {
+    "id": 28,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Zuhanás a magasból",
+      "riddle": "Egy kisbaba kiesik egy 20 emeletes felhőkarcoló ablakán. Az aszfaltra zuhan, de egyetlen karcolás nélkül túléli a balesetet. Hogyan?",
+      "solution": "A baba a földszinti ablakból esett ki (ami szintén a 20 emeletes ház része), így csak pár centit esett a puha fűre."
+    },
+    "en": {
+      "title": "The Baby's Fall",
+      "riddle": "A baby falls out of a window of a 20-story skyscraper. It hits the ground but survives without a single scratch. How?",
+      "solution": "The baby fell out of a ground-floor window (which is still part of the 20-story building), falling only a few inches onto the soft grass."
+    }
+  },
+  {
+    "id": 29,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A tapstáncos halála",
+      "riddle": "Egy vak férfi kap egy pár új cipőt a születésnapjára. Felveszi őket, kisétál egy híd közepére, majd a mélybe veti magát. Miért tette?",
+      "solution": "A férfi profi sztepptáncos volt. Az új cipőnek gumi talpa volt fém helyett. Amikor táncolni kezdett a hídon, nem hallotta a koppanásokat, így azt hitte, megsüketült. Elkeseredésében ugrott le."
+    },
+    "en": {
+      "title": "The Tap Dancer's Tragedy",
+      "riddle": "A blind man receives a pair of new shoes for his birthday. He puts them on, walks to the middle of a bridge, and jumps to his death. Why?",
+      "solution": "The man was a professional tap dancer. The new shoes had rubber soles instead of metal. When he danced on the bridge, he couldn't hear his taps, making him believe he had gone deaf. Desperate, he jumped."
+    }
+  },
+  {
+    "id": 30,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A gyanús öngyilkosság",
+      "riddle": "Egy nőt holtan találnak egy bérház tövében. A nyomozó felmegy az első emeletre, kinyitja az ablakot, ledob egy érmét, majd bezárja az ablakot. Ezt megismétli minden emeleten a tizedikig. Amikor leér, kijelenti: ez gyilkosság volt. Honnan tudta?",
+      "solution": "A gyilkos lökte ki a nőt, majd becsukta az ablakot. Ha a nő magától ugrott volna ki, az ablak nyitva maradt volna azon az emeleten, ahonnan leugrott."
+    },
+    "en": {
+      "title": "The Suspicious Suicide",
+      "riddle": "A woman is found dead at the base of an apartment building. The detective goes to the first floor, opens the window, drops a coin, then closes the window. He repeats this on every floor up to the 10th. When he returns, he declares it murder. How did he know?",
+      "solution": "The killer pushed the woman and closed the window. If she had jumped on her own, the window on that floor would have remained open."
+    }
+  },
+  {
+    "id": 31,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "Az alacsony férfi és a fűrészpor",
+      "riddle": "Egy vak, alacsony növésű férfi cirkuszban dolgozik. Egy nap holtan találják a szobájában, körülötte fűrészporral és egy fűrésszel. Öngyilkos lett. Miért?",
+      "solution": "Egy riválisa titokban levágott egy darabot a sétabotjából. Amikor a vak férfi kézbe vette a botot, azt hitte, hirtelen megnőtt, ami miatt elveszíti a cirkuszi munkáját. Elkeseredésében végzett magával."
+    },
+    "en": {
+      "title": "The Short Man and the Sawdust",
+      "riddle": "A blind, short man works in a circus. One day, he is found dead in his room, surrounded by sawdust and a saw. He committed suicide. Why?",
+      "solution": "A rival secretly sawed a piece off his walking stick. When the blind man used the stick, he thought he had suddenly grown taller, meaning he would lose his circus job. Out of despair, he took his life."
+    }
+  },
+  {
+    "id": 32,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A túlélő",
+      "riddle": "Egy repülőgép lezuhan pontosan a spanyol-francia határon. Hol kell eltemetni a túlélőket?",
+      "solution": "Sehol, hiszen ők túlélők, a túlélőket nem temetik el."
+    },
+    "en": {
+      "title": "The Survivor",
+      "riddle": "A plane crashes exactly on the border of Spain and France. Where should they bury the survivors?",
+      "solution": "Nowhere, because they are survivors. You don't bury survivors."
+    }
+  },
+  {
+    "id": 33,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A halálos telefonhívás",
+      "riddle": "Egy férfi felhívja a feleségét a munkahelyéről, de senki sem veszi fel. Leteszi a telefont, hazamegy, és holtan találja a feleségét. A férfi azonnal tudja, hogy ő a felelős a haláláért. Miért?",
+      "solution": "A feleség súlyos alvajáró volt, aki épp a tető szélén egyensúlyozott álmában. Amikor a telefon megcsörrent a zsebében, hirtelen felriadt, megijedt, elvesztette az egyensúlyát és lezuhant."
+    },
+    "en": {
+      "title": "The Fatal Phone Call",
+      "riddle": "A man calls his wife from work, but no one answers. He hangs up, goes home, and finds her dead. He instantly knows he is responsible for her death. Why?",
+      "solution": "His wife was a severe sleepwalker who was balancing on the edge of the roof in her sleep. When the phone rang in her pocket, she startled, woke up, lost her balance, and fell."
+    }
+  },
+  {
+    "id": 34,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A gázálarc",
+      "riddle": "Egy férfi bemegy egy múzeumba, felvesz egy régi gázálarcot, majd pár perccel később megfullad. Miért?",
+      "solution": "A gázálarc egy kiállítási darab volt a második világháborúból. Az idők során a szűrője teljesen elzáródott, ráadásul a múzeum lelakatolta a szelepeket, hogy megóvja a kosztól."
+    },
+    "en": {
+      "title": "The Gas Mask",
+      "riddle": "A man enters a museum, puts on an old gas mask, and suffocates a few minutes later. Why?",
+      "solution": "The gas mask was a World War II exhibit. Over time, its filter had become completely clogged, and the museum had locked the breathing valves to protect it from dust."
+    }
+  },
+  {
+    "id": 35,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A bezárt autó",
+      "riddle": "Egy férfit holtan találnak egy autóban. Az ajtók zárva vannak, az ablakok felhúzva. Semmilyen fegyver nincs a közelben, az autó motorja nem járt. Hogyan halt meg?",
+      "solution": "A férfi sivatagban utazott, elromlott az autója, és a tikkasztó hőségben egyszerűen kiszáradt és hőgutát kapott a felforrósodott autóban."
+    },
+    "en": {
+      "title": "The Locked Car",
+      "riddle": "A man is found dead in a car. The doors are locked, and the windows are rolled up. No weapon is nearby, and the engine was off. How did he die?",
+      "solution": "The man was traveling in the desert when his car broke down. In the sweltering heat, he dehydrated and suffered heatstroke inside the locked, hot car."
+    }
+  },
+  {
+    "id": 36,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A kártyavár",
+      "riddle": "Egy férfi a felhőkarcoló erkélyén egy kártyavárat épít. Hirtelen egy enyhe fuvallat meglegyinti az arcát, és a férfi pár másodperccel később szörnyethal. Mi történt?",
+      "solution": "A fuvallat összedöntötte a kártyavárat. A férfi reflexből utánakapott a szétrepülő lapoknak, átesett az erkély korlátján, és a mélybe zuhant."
+    },
+    "en": {
+      "title": "The House of Cards",
+      "riddle": "A man is building a house of cards on the balcony of a skyscraper. Suddenly, a gentle breeze brushes against his face, and a few seconds later, the man dies. What happened?",
+      "solution": "The breeze knocked down his house of cards. Out of reflex, the man lunged forward to grab the flying cards, lost his balance over the balcony railing, and fell to his death."
+    }
+  },
+  {
+    "id": 37,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A tengerész és a fény",
+      "riddle": "Egy hajóskapitány a sötét éjszakában a távcsövén keresztül meglát egy távoli fényt. Azonnal parancsot ad a kanyarodásra, de a hajó így is egy hatalmas jéghegynek ütközik és elsüllyed. Miért kanyarodott?",
+      "solution": "A kapitány nem egy másik hajó fényét látta, hanem a saját hajója fényszórójának a visszaverődését a közvetlenül előttük lévő jéghegyről. Azt hitte, egy szembejövő hajó tér ki előle, ezért kanyarodott pont a jéghegy felé."
+    },
+    "en": {
+      "title": "The Sailor and the Light",
+      "riddle": "A ship captain spots a distant light through his binoculars in the pitch-black night. He immediately orders a turn, but the ship still crashes into a massive iceberg and sinks. Why did he turn?",
+      "solution": "The captain didn't see another ship; he saw the reflection of his own ship's searchlight off the massive iceberg directly ahead of them. Believing an oncoming ship was steering away, he turned directly into the path of the iceberg."
+    }
+  },
+  {
+    "id": 38,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A színházi tragédia",
+      "riddle": "Egy színészt a színpadon, egy drámai jelenet közben lőnek le. A fegyverben vaktölténynek kellett volna lennie, és a kellékes meg is esküszik, hogy az volt. Mégis valódi golyó okozta a halálát. Hogyan?",
+      "solution": "A fegyverben valóban vaktöltény volt. Azonban a legutóbbi takarításnál egy valódi golyó szorult be a csőbe. Amikor a színész elsütötte a vaktöltényt, a kiáramló gázok hatalmas erővel lőtték ki a csőben ragadt valódi lövedéket."
+    },
+    "en": {
+      "title": "The Theater Tragedy",
+      "riddle": "An actor is shot dead on stage during a dramatic scene. The gun was supposed to contain blanks, and the prop master swears it did. Yet, a real bullet caused his death. How?",
+      "solution": "The gun did indeed contain a blank cartridge. However, during a previous cleaning or rehearsal, a real bullet had accidentally lodged inside the barrel. When the blank was fired, the expanding gases launched the stuck bullet with lethal force."
+    }
+  },
+  {
+    "id": 39,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A fura halál a jachton",
+      "riddle": "Egy luxusjachton holtan találnak egy férfit. Éhen halt, pedig a jacht kamrája és hűtője tele volt étellel és itallal. Az ajtók és ablakok nem voltak beragadva. Hogyan lehetséges ez?",
+      "solution": "A jacht a sarkvidéken hajózott, ahol egy hirtelen jött fagy miatt teljesen jégbe fagyott. A jég olyan vastagon vonta be a hajót kívülről, hogy eltorlaszolta az összes kijáratot. A férfi a luxuskabin fogságába esett, és miután a fűtés leállt, megfagyott a bezárt kabinban."
+    },
+    "en": {
+      "title": "The Mystery on the Yacht",
+      "riddle": "A man is found dead on a luxury yacht. He starved to death, even though the yacht's pantry and fridge were fully stocked with food and drinks. The doors and windows were not jammed. How is this possible?",
+      "solution": "The yacht was sailing in the Arctic when a sudden freeze trapped it in a massive glacier. The ice built up so thickly on the outside that it completely blocked the cabin doors. The man was trapped in his cabin and could not reach the pantry, eventually starving."
+    }
+  },
+  {
+    "id": 40,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A sivatag és a szalmaszálak",
+      "riddle": "Egy férfit holtan találnak a sivatag közepén. Semmi sincs nála, csak egy törött szalmaszál a kezében. Ha a szalmaszál egészséges lett volna, még mindig élne. Mi történt?",
+      "solution": "A férfi és a társa egy lezuhant repülőgép túlélői voltak. Csak egyetlen adag vizük maradt. Szalmaszálat húztak, hogy eldöntsék, ki kapja meg a vizet, és ki áldozza fel magát. A férfi a rövidebbet (töröttet) húzta, így neki kellett a sivatagban maradnia víz nélkül."
+    },
+    "en": {
+      "title": "The Desert and the Straws",
+      "riddle": "A man is found dead in the middle of the desert. He has nothing with him except a broken straw in his hand. If the straw had been whole, he would still be alive. What happened?",
+      "solution": "The man and his companion were survivors of a plane crash. They had only one ration of water left. They drew straws to decide who would get the water and who would sacrifice themselves. He drew the shorter (broken) straw and was left to die of dehydration."
+    }
+  },
+  {
+    "id": 41,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A megbánt ugrás",
+      "riddle": "Egy férfi kiugrik egy égő ház ablakából a tűzoltók által kifeszített ponyvára. Sértetlenül ér földet, de amikor felnéz az ablakra, azonnal szívrohamot kap és meghal. Mit látott?",
+      "solution": "A férfi a lángok elől menekült pánikban. Amikor felnézett, látta, hogy a felesége és a gyermekei az ablakban állnak és integetnek neki – a tűzoltók ugyanis időközben eloltották a tüzet a szobában, így teljesen feleslegesen ugrott ki."
+    },
+    "en": {
+      "title": "The Regretted Leap",
+      "riddle": "A man jumps from the window of a burning building onto a safety net held by firefighters. He lands safely, but when he looks back up at the window, he instantly suffers a heart attack and dies. What did he see?",
+      "solution": "The man jumped out of sheer panic. When he looked up, he saw his wife and children waving at him safely from the window—the firefighters had just extinguished the fire in that room. His leap was completely unnecessary, and the shock killed him."
+    }
+  },
+  {
+    "id": 42,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A halálos zöld jelzés",
+      "riddle": "Egy vak ember a kutyájával sétál az utcán. A gyalogos-átkelőnél a lámpa zöldre vált, a férfi elindul, de egy száguldó autó azonnal elgázolja és meghal. Miért hibázott a kutya?",
+      "solution": "A kutya valójában nem hibázott. A vakvezető kutya nem a lámpa színét nézi (mivel színvak), hanem a forgalom zaját figyeli. Aznap azonban egy nagyon hangos útépítés zajlott a közelben, ami elnyomta az autó hangját, így a kutya tévesen hitte biztonságosnak az indulást."
+    },
+    "en": {
+      "title": "The Fatal Green Light",
+      "riddle": "A blind man is walking with his guide dog. At the pedestrian crossing, the light turns green. The man steps forward, but a speeding car immediately hits and kills him. Why did the dog make a mistake?",
+      "solution": "The dog didn't actually make a mistake. Guide dogs don't watch traffic lights (as they are colorblind); they listen to the sound of traffic. That day, loud construction work nearby drowned out the sound of the oncoming car, leading the dog to believe it was safe to cross."
+    }
+  },
+  {
+    "id": 43,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A bújócska vége",
+      "riddle": "Egy kisfiút holtan találnak egy lakatlan telken álló régi hűtőszekrényben. Nincsenek rajta külsérelmi nyomok, az ajtó pedig be volt csukva. Mi történt?",
+      "solution": "A kisfiú bújócskázott a barátaival, és a régi hűtőt választotta rejtekhelynek. A régi típusú hűtők ajtaja azonban kívülről mechanikusan reteszelődött, így belülről nem tudta kinyitni, és sajnálatos módon megfulladt."
+    },
+    "en": {
+      "title": "The End of Hide and Seek",
+      "riddle": "A young boy is found dead inside an old refrigerator in an abandoned lot. There are no signs of trauma, and the door was closed. What happened?",
+      "solution": "The boy was playing hide-and-seek with his friends and chose the old fridge as a hiding spot. However, vintage refrigerators had latches that locked mechanically from the outside, preventing him from opening it from within, leading to suffocation."
+    }
+  },
+  {
+    "id": 44,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A gyanús vacsora",
+      "riddle": "Egy férfi tengeri sirályhúst rendel egy étteremben. Megkóstolja az első falatot, elsírja magát, majd hazamegy és végez magával. Miért?",
+      "solution": "A férfi évekkel korábban hajótörést szenvedett a fiával. A lakatlan szigeten a fia meghalt, de a társa azt állította, sirályhúst főzött neki, hogy életben tartsa. A valódi sirályhús ízét megismerve rájött, hogy a szigeten valójában a saját fia húsát ette meg."
+    },
+    "en": {
+      "title": "The Suspicious Dinner",
+      "riddle": "A man orders seagull meat at a restaurant. He takes one bite, bursts into tears, goes home, and ends his life. Why?",
+      "solution": "Years ago, the man was shipwrecked on a deserted island with his son. His son died, and his companion fed him meat, claiming it was seagull to keep him alive. Upon tasting actual seagull at the restaurant, the man realized he had unknowingly consumed his own son's flesh on the island."
+    }
+  },
+  {
+    "id": 45,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A faforgácsok",
+      "riddle": "Egy féllábú férfit holtan találnak egy lakatlan szigeten fekvő kunyhóban. Mellette egy halom faforgács és egy fűrész található. Miért halt meg?",
+      "solution": "A férfi egy másik féllábú hajótöröttel élt a szigeten. A társa irigy volt rá, mert az ő műlába hosszabb és jobb minőségű volt. Amíg a férfi aludt, a társa titokban minden éjjel lefűrészelt egy picit a műlábából. A férfi azt hitte, folyamatosan zsugorodik a betegsége miatt, és elkeseredésében öngyilkos lett."
+    },
+    "en": {
+      "title": "The Wood Shavings",
+      "riddle": "A one-legged man is found dead in a cabin on a deserted island. Beside him is a pile of wood shavings and a saw. Why did he die?",
+      "solution": "He survived a shipwreck with another one-legged man. His companion, jealous of the man's superior wooden leg, secretly sawed off a tiny fraction of it every night while he slept. The man woke up daily feeling shorter, believed he was suffering from a terrible bone-shrinking disease, and committed suicide in despair."
+    }
+  },
+  {
+    "id": 46,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A halálos telefonhívás",
+      "riddle": "Egy kémet holtan találnak az íróasztalánál. A boncolás szerint erős méreg végzett vele, de a szobában semmilyen étel, ital vagy pohár nem volt, és külsérelmi nyom sincs rajta. Hogyan mérgezték meg?",
+      "solution": "A gyilkos kontaktmérget kent a férfi telefonjának kagylójára (a mikrofon részére). Ezután felhívta a kémet, aki amikor felvette a telefont és beszélni kezdett, belélegezte vagy a szájához érintve lenyelte a mérget."
+    },
+    "en": {
+      "title": "The Deadly Phone Call",
+      "riddle": "A spy is found dead at his desk. The autopsy reveals heavy poisoning, but there is no food, drink, or cups in the room, and no signs of physical struggle. How was he poisoned?",
+      "solution": "The killer coated the mouthpiece of the spy's telephone receiver with a highly toxic contact poison. He then called the spy; when the spy answered and held the phone close to speak, he inhaled or ingested the lethal poison."
+    }
+  },
+  {
+    "id": 47,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A balszerencsés tolvaj",
+      "riddle": "Egy tolvaj éjszaka betör egy gazdag házba. Semmit sem lop el, de másnap reggel mégis holtan találják a nappali szőnyegén, fegyveres sérülés nélkül. Mi okozta a halálát?",
+      "solution": "A ház tulajdonosa egy egzotikus állatgyűjtő volt, akinek az egyik rendkívül mérges kígyója szabadon járt a házban éjszaka. A tolvaj sötétben rálépett a kígyóra, ami halálos marást mért rá."
+    },
+    "en": {
+      "title": "The Unlucky Thief",
+      "riddle": "A thief breaks into a wealthy estate at night. He steals nothing, yet is found dead the next morning on the living room rug with no signs of violence or weapons. What caused his death?",
+      "solution": "The homeowner was a collector of exotic animals, and one of his highly venomous snakes was roaming free in the dark. The thief accidentally stepped on the snake in the pitch-black room, receiving a fatal bite."
+    }
+  },
+  {
+    "id": 48,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A zuhanó lift utasai",
+      "riddle": "Egy lift kabinja leszakad a huszadik emeleten. A benne lévő férfi – hogy megmentse az életét – közvetlenül a becsapódás előtt felugrik a levegőbe. A lift földet ér, de a férfi így is szörnyethal. Miért nem segített az ugrás?",
+      "solution": "A fizika törvényei miatt az ugrás nem semlegesíti a zuhanás sebességét. Bár a lifthez képest felugrott, a földhöz képest még mindig hatalmas sebességgel száguldott lefelé, így a becsapódás ereje ugyanúgy halálos volt."
+    },
+    "en": {
+      "title": "The Falling Elevator Passenger",
+      "riddle": "An elevator cable snaps at the twentieth floor. To save his life, the man inside jumps into the air right before impact. The elevator hits the ground, but the man still dies. Why didn't the jump help?",
+      "solution": "According to the laws of physics, jumping inside a falling elevator does not cancel out the downward velocity. While he jumped relative to the elevator, he was still rushing toward the ground at a lethal speed, making the impact fatal anyway."
+    }
+  },
+  {
+    "id": 49,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A megmentett repülőút",
+      "riddle": "Egy éjjeliőr rémülten rohan a főnökéhez reggel, és könyörög neki, hogy ne szálljon fel a déli repülőgépére, mert azt álmodta, hogy le fog zuhanni. A főnök hallgat rá, a gép valóban lezuhan. A főnök megköszöni, hogy megmentette az életét, majd azonnal kirúgja az őrt. Miért?",
+      "solution": "Az éjjeliőrnek az a dolga, hogy éjszaka ébren legyen és vigyázzon a cégre. Azzal, hogy azt álmodta, lezuhan a gép, elárulta, hogy elaludt a szolgálat teljesítése közben."
+    },
+    "en": {
+      "title": "The Saved Flight",
+      "riddle": "A night watchman runs to his boss in the morning, begging him not to board his noon flight because he dreamed the plane would crash. The boss listens, and the plane indeed crashes. The boss thanks him for saving his life, then immediately fires him. Why?",
+      "solution": "The night watchman's job is to stay awake and guard the premises during the night. By admitting he had a dream, he revealed that he had fallen asleep on duty."
+    }
+  },
+  {
+    "id": 50,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A tökéletes gyilkossági fegyver",
+      "riddle": "Egy férfit holtan találnak a bezárt dolgozószobájában. Lőtt seb van a mellkasán, de semmilyen lőfegyver vagy golyó nincs a szobában, csak egy kis pocsolya a padlón. Hogyan ölték meg?",
+      "solution": "A gyilkos egy jégből formázott lövedéket használt egy sűrített levegős puskával. A jéggolyó átütötte a férfi testét, majd a meleg szobában teljesen elolvadt, így a fegyver és a bizonyíték is eltűnt, csak a víztócsa maradt utána."
+    },
+    "en": {
+      "title": "The Perfect Murder Weapon",
+      "riddle": "A man is found dead in his locked study. He has a gunshot wound in his chest, but no firearm or bullet is found in the room, only a small puddle of water on the floor. How was he killed?",
+      "solution": "The killer used a bullet made of ice fired from a compressed air gun. The ice bullet penetrated the victim's chest and subsequently melted in the warm room, leaving behind only the puddle of water and leaving no physical bullet for forensics."
+    }
+  },
+  {
+    "id": 51,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A süket fiú a síneken",
+      "riddle": "Egy teljesen süket kisfiú sétál a vasúti síneken. Egy gyorsvonat száguld felé hátulról, de a kisfiú mégis időben leugrik a sínekről, pedig nem látta a vonatot. Hogyan mentette meg az életét?",
+      "solution": "Bár a kisfiú süket volt, a lábával érezte a sínek és a föld erős vibrációját, amit a közeledő nehéz vonat keltett. Ebből azonnal tudta, hogy veszély közeleg, és félreugrott."
+    },
+    "en": {
+      "title": "The Deaf Boy on the Tracks",
+      "riddle": "A completely deaf boy is walking along the railroad tracks. A fast train is speeding toward him from behind, but the boy hits the ground or jumps off the tracks just in time, even though he didn't look back. How did he save his life?",
+      "solution": "Although he couldn't hear the train's horn, he felt the heavy, intensifying vibrations through the steel tracks and the ground under his feet. Recognizing the physical warning of a massive approaching object, he jumped aside."
+    }
+  },
+  {
+    "id": 52,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A sötétkamra titka",
+      "riddle": "Egy férfi belép egy sötét szobába, felkapcsolja a villanyt, meglát egy holttestet, majd rémülten azonnal leoltja a villanyt és sírva fakad. Miért?",
+      "solution": "A férfi egy fotós volt, aki egy analóg sötétkamrában dolgozott. Véletlenül kapcsolta fel a normál világítást, amivel azonnal tönkretette (kiégette) a fényérzékeny papíron lévő, éppen előhívás alatt álló egyetlen fényképet az elhunyt feleségéről."
+    },
+    "en": {
+      "title": "The Darkroom Mystery",
+      "riddle": "A man enters a dark room, turns on the light, sees a corpse, immediately turns off the light, and bursts into tears. Why?",
+      "solution": "The man was a photographer working in a darkroom. By turning on the regular overhead light, he instantly exposed and ruined the highly sensitive photo paper containing the last remaining picture of his deceased wife."
+    }
+  },
+  {
+    "id": 53,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A halálos esernyő",
+      "riddle": "Egy férfi sétál a napsütéses utcán egy nyitott esernyővel a kezében. Hirtelen egy másik férfi elsétál mellette, finoman hozzáér az esernyőjével, majd továbbmegy. Az első férfi pár perc múlva holtan esik össze. Mi történt?",
+      "solution": "A támadó egy titkosszolgálati ügynök volt, aki egy speciálisan átalakított esernyőt használt. Amikor hozzáért a férfihoz, az esernyő hegyéből egy apró, ricinnel (halálos méreggel) teli golyócskát lőtt a lábába, ami gyors bénulást és halált okozott."
+    },
+    "en": {
+      "title": "The Deadly Umbrella",
+      "riddle": "A man is walking down a sunny street holding an open umbrella. Another man walks past, gently brushes against him with his own umbrella, and keeps walking. A few minutes later, the first man collapses and dies. What happened?",
+      "solution": "The passerby was a secret service assassin using a modified umbrella weapon (similar to the famous Bulgarian umbrella case). Upon brushing against the victim, the umbrella injected a tiny pellet filled with ricin into his leg, causing fatal poisoning."
+    }
+  },
+  {
+    "id": 54,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A macska öröksége",
+      "riddle": "Egy milliomos végrendeletében minden vagyonát a kedvenc macskájára hagyja. Másnap a macskát holtan találják a házban. Bár a rokonok dörzsölik a kezüket, egyikük sem kap egyetlen fillért sem. Miért?",
+      "solution": "A milliomos végrendeletében kikötötte, hogy ha a macska elpusztul, a teljes örökség egy állatmenhelyre száll. A kapzsi rokonok hiába mérgezték meg a macskát, nem számoltak ezzel a záradékkal."
+    },
+    "en": {
+      "title": "The Cat's Inheritance",
+      "riddle": "A millionaire leaves his entire fortune to his pet cat in his will. The next day, the cat is found dead. Although the relatives are thrilled, none of them receive a single penny. Why?",
+      "solution": "The millionaire's will specified that if the cat died, the entire inheritance would be donated to an animal shelter. The greedy relatives poisoned the cat but failed to read the backup clause of the will."
+    }
+  },
+  {
+    "id": 55,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A fagyos halál nyáron",
+      "riddle": "Egy férfit fagyott állapotban találnak meg egy kamion fülkéjében a nyár kellős közepén, a sivatagi autópálya szélén. Hogyan fagyhatott meg?",
+      "solution": "A férfi egy hűtőkamiont vezetett, ami fagyasztott húst szállított. Útközben a hűtőkamra meghibásodott, ő pedig bemászott hátulra ellenőrizni a rakományt, de a nehéz ajtó rácsukódott és kívülről reteszelődött, így bent rekedt a mínusz fokokban."
+    },
+    "en": {
+      "title": "The Frozen Death in Summer",
+      "riddle": "A man is found frozen to death inside a truck in the middle of summer on a desert highway. How did he freeze?",
+      "solution": "The man was driving a refrigerated cargo truck transporting frozen meat. He stepped into the freezer compartment at the back to check on the cargo, but the heavy door accidentally slammed shut and locked from the outside, trapping him in sub-zero temperatures."
+    }
+  },
+  {
+    "id": 56,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A gyanús vendég",
+      "riddle": "Egy férfi vendégségbe megy. A házigazda gombalevest szolgál fel. A férfi eszik belőle, majd pár perccel később feláll, és megöli a házigazdát. Miért?",
+      "solution": "A férfi felesége évekkel korábban gombamérgezésben halt meg, amit balesetnek hittek. Amikor megkóstolta a házigazda levesét, rájött, hogy az ugyanolyan különleges, ritka gombából készült, amit csak a házigazda termesztett. Ekkor döbbent rá, hogy valójában a házigazda mérgezte meg a feleségét."
+    },
+    "en": {
+      "title": "The Suspicious Guest",
+      "riddle": "A man goes to a dinner party. The host serves mushroom soup. The man eats it, stands up, and kills the host. Why?",
+      "solution": "The man's wife had died years ago from mushroom poisoning, which was ruled an accident. Upon tasting the host's soup, he realized it was made from a rare, specific mushroom that only the host cultivated, making him realize the host had murdered his wife."
+    }
+  },
+  {
+    "id": 57,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A hirtelen áramszünet",
+      "riddle": "Egy férfi egy liftben utazik. Hirtelen elmegy az áram, és a lift megáll a két emelet között. A férfi ekkor azonnal tudja, hogy a felesége meghalt. Honnan tudta?",
+      "solution": "A felesége otthon feküdt a kórházi ágyban, életfenntartó gépekre kapcsolva. A férfi tudta, hogy az áramszünet az egész negyedet érinti, és a gép leállása a felesége halálát jelenti."
+    },
+    "en": {
+      "title": "The Power Outage",
+      "riddle": "A man is riding in an elevator. Suddenly, the power goes out, and the elevator stops between floors. The man instantly knows his wife is dead. How?",
+      "solution": "His wife was at home, connected to life-support machines. He knew the power outage affected the entire block, meaning her life-support system had failed, leading to her death."
+    }
+  },
+  {
+    "id": 58,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A halott a telefonfülkében",
+      "riddle": "Egy férfit holtan találnak egy nyilvános telefonfülkében. A fülke két oldalsó üvege be van törve, a férfi kezei véresek. Mi történt?",
+      "solution": "A férfi a barátjának mesélte telefonon, mekkora halat fogott. Amikor a kezével mutatta a méretet („ekkora volt!”), hatalmas erővel kitolta a karjait, betörte az üvegeket, és a szilánkok elvágták az ütőereit."
+    },
+    "en": {
+      "title": "The Dead Man in the Phone Booth",
+      "riddle": "A man is found dead in a public telephone booth. The glass windows on both sides are shattered, and his hands are covered in blood. What happened?",
+      "solution": "He was on the phone telling his friend about a giant fish he had caught. When he gestured with his hands to show the size ('it was this big!'), he violently slammed his arms through the glass windows, severing his arteries and bleeding to death."
+    }
+  },
+  {
+    "id": 59,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A két nővér",
+      "riddle": "Egy lány az édesanyja temetésén találkozik egy lenyűgöző férfival, akit még sosem látott. Szerelem lesz első látásra, de elfelejti elkérni a számát. Egy héttel később a lány megöli a saját nővérét. Miért?",
+      "solution": "A lány abban reménykedett, hogy a titokzatos férfi (aki valószínűleg a család ismerőse volt) a nővére temetésén is megjelenik majd."
+    },
+    "en": {
+      "title": "The Two Sisters",
+      "riddle": "A girl meets a stunning man she has never seen before at her mother's funeral. It is love at first sight, but she forgets to ask for his number. A week later, she murders her own sister. Why?",
+      "solution": "She hoped that the mysterious man (who was likely a family acquaintance) would also attend her sister's funeral, giving her another chance to meet him."
+    }
+  },
+  {
+    "id": 60,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A mérgezett boríték",
+      "riddle": "Egy üzletember kap egy levelet az irodájában. Kinyitja, elolvassa, majd pár perccel később holtan esik össze. A levelet nem mérgezték meg, és nem volt benne semmi fizikai fegyver. Hogyan halt meg?",
+      "solution": "A feladó rendkívül erős kontaktmérget kent a boríték ragasztócsíkjára. Amikor a férfi megnyalta a borítékot, hogy lezárja a benne küldött válaszkártyát, a méreg a szervezetébe jutott."
+    },
+    "en": {
+      "title": "The Poisoned Envelope",
+      "riddle": "A businessman receives a letter in his office. He opens it, reads it, and collapses dead a few minutes later. The letter itself was not poisoned, and there was no physical weapon inside. How did he die?",
+      "solution": "The sender had coated the adhesive strip of the enclosed return envelope with a deadly poison. When the businessman licked the envelope to seal his reply, he ingested the poison."
+    }
+  },
+  {
+    "id": 61,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A maszkos holttest az erdőben",
+      "riddle": "Egy férfit holtan találnak az erdő mélyén, arcán egy gázálarccal. Az erdőben a levegő teljesen tiszta és mérgezésmentes. Mi okozta a halálát?",
+      "solution": "A férfi egy illegális üzemanyag-tolvaj volt, aki megpróbált megcsapolni egy föld alatti gázvezetéket. A gázálarca azonban meghibásodott, így belélegezte a kiáramló mérgező gázokat."
+    },
+    "en": {
+      "title": "The Masked Corpse in the Woods",
+      "riddle": "A man is found dead deep in the forest wearing a gas mask. The air in the forest is perfectly clean and non-toxic. What caused his death?",
+      "solution": "The man was an illegal fuel thief attempting to tap into an underground gas pipeline. His gas mask failed, causing him to inhale the highly concentrated toxic fumes escaping from the pipe."
+    }
+  },
+  {
+    "id": 62,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A szél és a tudós",
+      "riddle": "Egy neves tudóst holtan találnak a laboratóriumában. Külsérelmi nyom nincs rajta, de a szél erősen fúj a nyitott ablakon át, és egy összetört üvegcse hever a földön. Mi történt?",
+      "solution": "A tudós egy halálos, levegőben terjedő víruson dolgozott. A hirtelen jött erős szél lesodorta az üvegcsét az asztalról, az összetört, a tudós pedig belélegezte a vírust és azonnal meghalt."
+    },
+    "en": {
+      "title": "The Wind and the Scientist",
+      "riddle": "A famous scientist is found dead in his laboratory. There are no signs of physical trauma, but a strong wind is blowing through the open window, and a shattered vial lies on the floor. What happened?",
+      "solution": "The scientist was working on a deadly airborne virus. A sudden gust of wind knocked the vial off the shelf, shattering it. He inhaled the lethal pathogen and died instantly."
+    }
+  },
+  {
+    "id": 63,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A piros ház és az üvegház",
+      "riddle": "A piros ház piros téglából épült, a kék ház kék téglából, a sárga ház pedig sárga téglából. Miből épült a zöld ház?",
+      "solution": "Üvegből, hiszen a zöld ház (angolul greenhouse) üvegházat jelent, amiben növényeket termesztenek."
+    },
+    "en": {
+      "title": "The Red House and the Greenhouse",
+      "riddle": "The red house is made of red bricks, the blue house is made of blue bricks, and the yellow house is made of yellow bricks. What is the greenhouse made of?",
+      "solution": "Glass, because a greenhouse is a glass structure used for growing plants."
+    }
+  },
+  {
+    "id": 64,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A mozipénztár",
+      "riddle": "Egy férfi besétál a moziba. Elővesz egy fegyvert, és mindenki szeme láttára lelő egy nőt. Bár a mozi tele van emberekkel, senki sem próbálja megállítani, és a férfi szabadon távozik. Hogyan lehetséges ez?",
+      "solution": "A férfi valójában a film egyik szereplője volt, és a gyilkosság a vetített filmen történt meg."
+    },
+    "en": {
+      "title": "The Cinema Shooting",
+      "riddle": "A man walks into a movie theater. He pulls out a gun and shoots a woman in front of everyone. Although the theater is crowded, nobody tries to stop him, and he leaves freely. How is this possible?",
+      "solution": "The man was an actor on the movie screen, and the shooting was part of the film being projected."
+    }
+  },
+  {
+    "id": 65,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A végzetes tüsszentés",
+      "riddle": "Egy férfi tüsszent egyet, majd néhány másodperccel később öt ember szörnyethal a közelében. Mi történt?",
+      "solution": "A férfi egy buszsofőr volt, aki éppen egy veszélyes hegyi szerpentinen vezetett. A hirtelen jött tüsszentés miatt egy pillanatra lehunyta a szemét, elvesztette az uralmat a jármű felett, és a busz szakadékba zuhant."
+    },
+    "en": {
+      "title": "The Fatal Sneeze",
+      "riddle": "A man sneezes, and a few seconds later, five people near him die. What happened?",
+      "solution": "The man was a bus driver navigating a dangerous mountain road. The sudden sneeze caused him to temporarily close his eyes and lose control of the vehicle, which crashed over a cliff."
+    }
+  },
+  {
+    "id": 66,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A kopasz férfi az esőben",
+      "riddle": "Egy férfi sétál a szakadó esőben. Nincs nál esernyő, nem visel kalapot, és a ruhája teljesen átázik. Mégis, egyetlen hajszála sem lesz vizes. Hogyan lehetséges ez?",
+      "solution": "A férfi teljesen kopasz volt."
+    },
+    "en": {
+      "title": "The Bald Man in the Rain",
+      "riddle": "A man is walking in the pouring rain. He has no umbrella, isn't wearing a hat, and his clothes get soaked. Yet, not a single hair on his head gets wet. How is this possible?",
+      "solution": "The man was completely bald."
+    }
+  },
+  {
+    "id": 67,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A bezárt páncélterem",
+      "riddle": "Egy bankárt holtan találnak a bank páncéltermében. Bár bőségesen volt nála étel és víz, és semmilyen sérülése nem volt, a boncolás szerint mindössze két óra alatt meghalt. Mi végzett vele?",
+      "solution": "A páncélterem légmentesen záródott. Amikor a nehéz ajtó véletlenül rácsukódott, a férfi két óra alatt elhasználta az összes oxigént a szobában, és megfulladt."
+    },
+    "en": {
+      "title": "The Locked Vault",
+      "riddle": "A banker is found dead inside a bank vault. Although he had plenty of food and water and suffered no physical trauma, the autopsy reveals he died in just two hours. What killed him?",
+      "solution": "The vault was completely airtight. When the heavy door accidentally locked him inside, he used up all the oxygen in the room within two hours and suffocated."
+    }
+  },
+  {
+    "id": 68,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A mérgezett gyűrű",
+      "riddle": "Egy idős koldust holtan találnak az utcán. A kezén egy gyönyörű, gyémántos gyűrű ragyog, ami milliókat ér. Bár a rendőrség először rablásra gyanakszik, kiderül, hogy a gyűrű okozta a halálát. Hogyan?",
+      "solution": "A gyűrű valójában egy 'méreggyűrű' volt a középkorból. A koldus az utcán találta, és felpróbálta. A gyűrű belsejében lévő rejtett, rozsdás tű megkarcolta az ujját, és a benne lévő ősi méreg a vérébe jutott."
+    },
+    "en": {
+      "title": "The Poisoned Ring",
+      "riddle": "An elderly beggar is found dead on the street. On her hand is a beautiful diamond ring worth millions. Although the police initially suspect robbery, it turns out the ring itself caused her death. How?",
+      "solution": "The ring was an antique poison ring. The beggar found it on the street and tried it on. A tiny, hidden needle inside the band scratched her finger, releasing a highly toxic, ancient poison into her bloodstream."
+    }
+  },
+  {
+    "id": 69,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lángoló tenger",
+      "riddle": "Egy luxushajó utasa pánikba esik egy hirtelen tűz miatt, és beugrik a tengerbe, hogy megmentse az életét. Bár tudott úszni és a víz kellemes volt, nem megfulladt, hanem halálra égett. Hogyan lehetséges ez?",
+      "solution": "A hajóból nagy mennyiségű üzemanyag szivárgott ki, ami a tenger felszínén úszva lángra kapott. Amikor a férfi a vízbe ugrott, a lángoló olajrétegbe érkezett."
+    },
+    "en": {
+      "title": "The Burning Sea",
+      "riddle": "A passenger on a luxury cruise ship panics during a sudden fire and jumps into the sea to save his life. Although he could swim and the water was calm, he did not drown but burned to death. How is this possible?",
+      "solution": "A large amount of fuel had leaked from the ship, forming a thick layer of oil on the water's surface that caught fire. When the man jumped, he landed directly in the burning oil."
+    }
+  },
+  {
+    "id": 70,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A két katona",
+      "riddle": "Két katona harcol a frontvonalon. Az egyiket fejbe lövik, a másikat mellkason. Mindketten összeesnek, de pár perc múlva felállnak, és nevetve sétálnak vissza a bázisra, teljesen sértetlenül. Hogyan élték túl?",
+      "solution": "Nem valódi háborúban voltak, hanem egy paintball-pályán játszottak a barátaikkal."
+    },
+    "en": {
+      "title": "The Two Soldiers",
+      "riddle": "Two soldiers are fighting on the front lines. One is shot in the head, the other in the chest. Both collapse, but a few minutes later they stand up, laugh, and walk back to base completely unharmed. How did they survive?",
+      "solution": "They weren't in a real war; they were playing a friendly game of paintball."
+    }
+  },
+  {
+    "id": 71,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A forró leves",
+      "riddle": "Egy nő belerak egy jégkockát a forró levesébe, hogy lehűtse azt. Pár másodperccel később a leves robbanásszerűen kifut a tálból, súlyos égési sérüléseket okozva a nőnek. Miért történt a robbanás?",
+      "solution": "A nő mikrohullámú sütőben melegítette túl a levest. A folyadék túlhevült állapotba került (forráspont felett volt, de buborékok nélkül). Amikor a jégkockát belehelyezte, az azonnali heves párolgást és gőzrobbanást váltott ki."
+    },
+    "en": {
+      "title": "The Superheated Soup",
+      "riddle": "A woman drops an ice cube into her hot soup to cool it down. A second later, the soup violently erupts from the bowl, causing her severe burns. Why did it explode?",
+      "solution": "She had overheated the soup in a microwave. The liquid became superheated (above boiling point but without bubbling). The sudden introduction of the ice cube triggered instant, violent boiling and steam eruption."
+    }
+  },
+  {
+    "id": 72,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A hiányzó lapok",
+      "riddle": "Egy férfi megvesz egy krimit a könyvesboltban. Elolvassa az első 100 oldalt, majd dühösen visszaviszi a boltba, mert azt állítja, a könyv használhatatlan. Az eladó megvizsgálja a könyvet, igazat ad neki, és visszafizeti a pénzt. Mi volt a hiba?",
+      "solution": "A nyomdahiba miatt a könyvből pont a legutolsó 5 oldal hiányzott, így a krimi végén nem derült ki, ki volt a gyilkos."
+    },
+    "en": {
+      "title": "The Missing Pages",
+      "riddle": "A man buys a detective novel at a bookstore. He reads the first 100 pages and returns it to the store furious, claiming the book is useless. The clerk inspects it, agrees, and refunds his money. What was the flaw?",
+      "solution": "Due to a printing error, the very last 5 pages of the book were missing, making it impossible to find out who the killer was in the mystery."
+    }
+  },
+  {
+    "id": 73,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A végzetes liftút",
+      "riddle": "Egy nő beszáll a liftbe a földszinten, megnyomja a legfelső emelet gombját. Útközben a lift megáll egy pillanatra, majd megy tovább. Amikor a nő megérkezik a célhoz, holtan találják a liftben, pedig egyedül utazott és nem volt beteg. Mi történt?",
+      "solution": "A lift a megálláskor hirtelen zuhant pár emeletet, mielőtt a biztonsági fék megfogta. A hirtelen rántás és a hatalmas G-erő miatt a nő nyaka eltört."
+    },
+    "en": {
+      "title": "The Deadly Elevator Ride",
+      "riddle": "A woman enters an elevator on the ground floor and presses the top floor button. On the way up, the elevator pauses for a brief moment, then continues. When it reaches its destination, she is found dead inside, despite riding alone and having no illnesses. What happened?",
+      "solution": "During the brief pause, the elevator experienced a sudden, violent drop of several floors before the emergency brakes engaged. The intense G-force and sudden deceleration snapped her neck."
+    }
+  },
+  {
+    "id": 74,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A mérgezett alma",
+      "riddle": "Egy férfi kettévág egy almát egy késsel, az egyik felét odaadja a feleségének, a másikat ő eszi meg. A felesége azonnal meghal mérgezésben, a férfi viszont teljesen egészséges marad. A kést előtte nem mosta meg. Hogyan lehetséges ez?",
+      "solution": "A fegyver egy különleges kés volt, aminek csak az egyik oldalára kentek mérget. Amikor kettévágta az almát, a méreg csak az alma egyik felére került rá – arra, amit a felesége kapott."
+    },
+    "en": {
+      "title": "The Poisoned Apple",
+      "riddle": "A man slices an apple in half with a knife, gives one half to his wife, and eats the other half. The wife dies of poisoning instantly, but the husband remains perfectly healthy. The knife was not washed. How is this possible?",
+      "solution": "The knife was specially prepared with poison coated on only one side of the blade. When he sliced the apple, the poison was transferred only to the half given to his wife."
+    }
+  },
+  {
+    "id": 75,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A biztonságos földet érés",
+      "riddle": "Egy férfi kiugrik egy repülőgépből ejtőernyő nélkül. Bár több ezer méter magasban repültek, a férfi sértetlenül landol a földön. Hogyan élte túl?",
+      "solution": "A repülőgép nem volt a levegőben, hanem a repülőtér kifutópályáján parkolt."
+    },
+    "en": {
+      "title": "The Safe Landing",
+      "riddle": "A man jumps out of an airplane without a parachute. Although the plane was at an altitude of several thousand feet, the man lands safely on the ground without a single injury. How did he survive?",
+      "solution": "The airplane was not in the air; it was parked on the airport runway."
+    }
+  },
+  {
+    "id": 76,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A gyufa a sötétben",
+      "riddle": "Egy férfi egy teljesen sötét, zárt helyen ébred fel. Meggyújt egy szál gyufát, körülnéz, majd a másodperc törtrésze alatt megérti a helyzetét, eloltja a gyufát, és sokkot kapva meghal. Mit látott?",
+      "solution": "A férfit élve temették el. Amikor meggyújtotta a gyufát, meglátta a koporsó bársony bélését, és rájött, hogy nincs kiút, a levegője pedig hamarosan elfogy."
+    },
+    "en": {
+      "title": "The Match in the Dark",
+      "riddle": "A man wakes up in a pitch-black, enclosed space. He lights a single match, looks around, instantly understands his situation, blows out the match, and dies of sheer panic. What did he see?",
+      "solution": "The man had been buried alive. When he lit the match, he saw the velvet lining of the coffin and realized there was no escape and his oxygen would soon run out."
+    }
+  },
+  {
+    "id": 77,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A meztelen holttest a hóban",
+      "riddle": "Egy teljesen meztelen férfit holtan találnak a havas mező közepén. Semmilyen lábnyom nincs körülötte, csak a sajátjai. A kezében egy kis fémgyűrűt szorít. Hogyan halt meg?",
+      "solution": "A férfi egy hőlégballon utasa volt, ami süllyedni kezdett. Hogy könnyítsenek a súlyon, minden ruhájukat kidobták, de ez sem volt elég. Sorsot húztak (egy konzervdoboz nyitógyűrűjével), és a férfi húzta a rövidebbet, így ki kellett ugrania."
+    },
+    "en": {
+      "title": "The Naked Corpse in the Snow",
+      "riddle": "A completely naked man is found dead in the middle of a snowy field. There are no footprints around him except his own. In his hand, he tightly grips a small metal ring. How did he die?",
+      "solution": "The man was a passenger in a hot air balloon that began to lose altitude rapidly. To cut weight, they threw out all their clothes, but it wasn't enough. They drew straws (using a can ring), and he drew the short one, forcing him to jump."
+    }
+  },
+  {
+    "id": 78,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A jégtömb",
+      "riddle": "Egy férfit felakasztva találnak egy üres szoba közepén. A szobában nincs semmilyen bútor, nincs szék vagy asztal, viszont egy nagy pocsolya van közvetlenül a férfi lába alatt. Hogyan akasztotta fel magát?",
+      "solution": "A férfi egy hatalmas jégtömbre állt rá, a nyakára hurok vonta, majd megvárta, amíg a jég teljesen elolvad alatta."
+    },
+    "en": {
+      "title": "The Block of Ice",
+      "riddle": "A man is found hanging from the ceiling in the middle of an empty room. There is no furniture, no chair, and no table, but there is a large puddle of water directly beneath his feet. How did he hang himself?",
+      "solution": "The man stood on a massive block of ice, placed the noose around his neck, and waited for the ice to completely melt away."
+    }
+  },
+  {
+    "id": 79,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A bizarr küldemény",
+      "riddle": "Egy férfi kap egy csomagot a postán. Kinyitja, és egy tartósított, levágott emberi kezet talál benne. Megvizsgálja, bólint, majd gondosan visszacsomagolja, és továbbküldi egy harmadik férfinak. Miért?",
+      "solution": "Három hajótörött megegyezett egy lakatlan szigeten, hogy levágják és megeszik az egyik karjukat az életben maradásért. Miután ketten megtették, kimentették őket. A harmadik férfi később orvossal levágatta a saját karját, és elküldte a többieknek, hogy teljesítse az ígéretét."
+    },
+    "en": {
+      "title": "The Bizarre Package",
+      "riddle": "A man receives a package in the mail. He opens it and finds a preserved, severed human hand. He inspects it, nods, carefully repacks it, and mails it to a third man. Why?",
+      "solution": "Three shipwrecked survivors on a deserted island agreed to amputate and eat one of their arms to survive. After two did, they were rescued. The third man later had his arm surgically amputated and mailed it to the others to fulfill his promise."
+    }
+  },
+  {
+    "id": 80,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A vörös fonal",
+      "riddle": "Egy kislány egy vörös fonalat követ végig a házon. Amikor eléri a fonal végét, keservesen sírni kezd. Miért?",
+      "solution": "A vak édesapja fonalat használt, hogy tájékozódni tudjon a házban. Valaki gonosz tréfából elvágta a fonalat, és kivezette az erkélyen át a mélybe, a kislány pedig a fonal végén a lezuhant apja testét találta meg."
+    },
+    "en": {
+      "title": "The Red Thread",
+      "riddle": "A young girl follows a red thread through her house. When she reaches the end of the thread, she bursts into tears. Why?",
+      "solution": "Her blind father used a red thread to navigate the house. Someone played a cruel prank and redirected the thread over the balcony railing into the open air, causing the father to walk off the edge and fall to his death."
+    }
+  },
+  {
+    "id": 81,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Az utolsó ital",
+      "riddle": "Egy férfi besétál a kocsmába, és kér egy pohár vizet. A pultos hirtelen elővesz egy pisztolyt, és egyenesen a férfira szegezi. A férfi megijed, majd azt mondja: 'Köszönöm!', és elégedetten távozik. Miért?",
+      "solution": "A férfinak súlyos csuklása volt, azért kért vizet. A pultos rájött erre, és a fegyverrel halálra rémítette, ami azonnal elmulasztotta a csuklást. A férfi ezért köszönte meg."
+    },
+    "en": {
+      "title": "The Last Drink",
+      "riddle": "A man walks into a bar and asks for a glass of water. The bartender suddenly pulls out a gun and points it directly at the man. The man gasps, says 'Thank you!', and leaves satisfied. Why?",
+      "solution": "The man had a severe case of hiccups and wanted water to cure it. The bartender realized this and scared him with the gun to cure the hiccups instantly. It worked, so the man thanked him."
+    }
+  },
+  {
+    "id": 82,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A sötét alagút",
+      "riddle": "Egy vonat behalad egy alagútba. Egy férfi, aki nemrég esett át egy sikeres szemműtéten (visszakapva a látását), azt hiszi, hogy újra megvakult. Kétségbeesésében kiugrik a robogó vonatból és meghal. Miért ugrott?",
+      "solution": "A vonat pont azután lépett be a teljesen sötét alagútba, hogy levették a férfi szeméről a kötést. Mivel nem tudta, hogy alagútban vannak, azt hitte, a műtét kudarcot vallott és örökre vak marad."
+    },
+    "en": {
+      "title": "The Dark Tunnel",
+      "riddle": "A train enters a tunnel. A passenger, who recently underwent successful eye surgery to restore his sight, believes he has gone blind again. Desperate, he jumps from the moving train and dies. Why did he jump?",
+      "solution": "The train entered a pitch-black tunnel just after his bandages were removed. Not knowing they were in a tunnel, he mistakenly believed the surgery had failed and he would remain blind forever."
+    }
+  },
+  {
+    "id": 83,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Az üres madárkalitka",
+      "riddle": "Egy nő vesz egy gyönyörű madárkalitkát. Másnap a férjét holtan találják a nappaliban, de a kalitka teljesen üres és sértetlen. Hogyan kapcsolódik a kalitka a halálához?",
+      "solution": "A férj bányász volt. Elvitte magával a kalitkába zárt kanárit a szénbányába, hogy jelezze a gázszivárgást. A kanári elpusztult, jelezve a mérgező gázt, de a férfi már nem tudott időben kijutni."
+    },
+    "en": {
+      "title": "The Empty Birdcage",
+      "riddle": "A woman buys a beautiful birdcage. The next day, her husband is found dead in the living room, but the birdcage is completely empty and undamaged. How is the birdcage connected to his death?",
+      "solution": "The husband was a coal miner. He took the caged canary down into the mine to detect toxic gas. The canary died, warning of a leak, but the husband was unable to escape in time."
+    }
+  },
+  {
+    "id": 84,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A rádióműsor",
+      "riddle": "Egy férfi éjszaka az autóját vezeti. Bekapcsolja a rádiót, hallgatja pár másodpercig, majd hirtelen félrerántja a kormányt, lehajt a szakadékba és szörnyethal. Miért tette?",
+      "solution": "A férfi egy rádiós műsorvezető volt, aki előre felvett egy adást, hogy alibit biztosítson magának, miközben hazamegy megölni a feleségét. A rádiót bekapcsolva hallotta, hogy a felvétel ugrál és ismétli önmagát, így az alibije lebukott. Kétségbeesésében végzett magával."
+    },
+    "en": {
+      "title": "The Radio Show",
+      "riddle": "A man is driving his car at night. He turns on the radio, listens for a few seconds, then suddenly swerves off a cliff to his death. Why did he do it?",
+      "solution": "The man was a radio host who pre-recorded his show to establish an alibi while he went home to murder his wife. Upon turning on the radio, he heard the tape skipping and looping, realizing his alibi was ruined. He chose suicide over prison."
+    }
+  },
+  {
+    "id": 85,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A csodás menekülés",
+      "riddle": "Egy kerekesszékes férfi hirtelen feláll, kiszalad a házából a főútra, ahol egy száguldó autó elgázolja és meghal. Miért futott ki?",
+      "solution": "A házában hirtelen tűz ütött ki. A pánik és a hatalmas adrenalin-löket hatására az agya felülírta a bénultságát, így képes volt lábra állni és elmenekülni, de a kapkodásban egyenesen a forgalomba rohant."
+    },
+    "en": {
+      "title": "The Miraculous Escape",
+      "riddle": "A paralyzed man in a wheelchair suddenly stands up, runs out of his house onto a main road, and is hit and killed by a speeding car. Why did he run?",
+      "solution": "A fire suddenly broke out in his house. The intense panic and adrenaline surge temporarily overcame his paralysis, allowing him to stand and flee, but in his panic, he ran straight into oncoming traffic."
+    }
+  },
+  {
+    "id": 86,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A fogpiszkáló",
+      "riddle": "Többen egy előkelő étteremben vacsoráznak. Mindenki pontosan ugyanazt az ételt eszi, de az egyik férfi hirtelen rosszul lesz és meghal. Nem mérgezték meg. Mi végzett vele?",
+      "solution": "A férfi véletlenül lenyelt egy apró, rejtett fogpiszkálót, ami a gourmet előételt tartotta össze. A fogpiszkáló felsértette a belső szerveit, ami belső vérzést okozott."
+    },
+    "en": {
+      "title": "The Toothpick",
+      "riddle": "Several people are dining at an upscale restaurant. Everyone eats the exact same food, but one man suddenly collapses and dies. He was not poisoned. What killed him?",
+      "solution": "The man accidentally swallowed a small, hidden toothpick that was holding his gourmet appetizer together. The toothpick punctured his internal organs, causing fatal internal bleeding."
+    }
+  },
+  {
+    "id": 87,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A bezárt szoba",
+      "riddle": "Egy férfit holtan találnak egy ablaktalan szobában, aminek az ajtaja belülről volt bezárva. Csak egy asztal és egy szék van bent. A férfi fején egy nagy véraláfutás látható, de nem gyilkosság történt. Mi okozta a halálát?",
+      "solution": "A szoba egy hatalmas hűtőkamra volt, ahová a férfi véletlenül bezáródott. Kétségbeesésében a fejével próbálta betörni a fém ajtót (innen a sérülés), végül azonban kihűlés miatt meghalt."
+    },
+    "en": {
+      "title": "The Locked Room",
+      "riddle": "A man is found dead in a windowless room locked from the inside. There is only a table and a chair. He has a large bruise on his head, but it was not murder. What caused his death?",
+      "solution": "The room was a walk-in industrial freezer that he got accidentally locked inside. He desperately tried to ram the metal door open with his head (causing the bruise) before eventually dying of hypothermia."
+    }
+  },
+  {
+    "id": 88,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A végzetes fotó",
+      "riddle": "Egy nő lefényképezi a férjét a nyaraláson, aki egy szikla szélén pózol. Amikor otthon előhívatja a képet, azonnal sírva fakad és hívja a rendőrséget, mert rájön, hogy a férjét meggyilkolták. Mit látott a képen?",
+      "solution": "A fényképen, a háttérben lévő üvegablak tükröződésében tisztán látszott a férje túravezetője, amint éppen elvágja a biztonsági kötelet, amin a férje lógott."
+    },
+    "en": {
+      "title": "The Fatal Photo",
+      "riddle": "A woman takes a photo of her husband posing on a cliff edge during vacation. When she develops the photo at home, she bursts into tears and calls the police, realizing he was murdered. What did she see?",
+      "solution": "In the background of the photo, reflected in a nearby glass window, she could clearly see their tour guide slicing the safety rope her husband was attached to right before he 'fell'."
+    }
+  },
+  {
+    "id": 89,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A magányos világítótorony",
+      "riddle": "Egy férfi lekapcsol egy lámpát, majd lefekszik aludni. Másnap reggel belenéz az újságba, elsápad, majd lesétál a közeli sziklához és a mélybe veti magát. Miért tette?",
+      "solution": "A férfi egy világítótorony őre volt. Elalvás előtt véletlenül lekapcsolta a torony fő fényét, aminek következtében egy utasszállító hajó a szikláknak ütközött és elsüllyedt. Az újságban a katasztrófa hírét olvasta."
+    },
+    "en": {
+      "title": "The Lonely Lighthouse",
+      "riddle": "A man turns off a light and goes to sleep. The next morning, he reads the newspaper, turns pale, walks to a nearby cliff, and jumps to his death. Why?",
+      "solution": "The man was a lighthouse keeper. Before going to bed, he accidentally switched off the main beacon. As a result, a passenger ship crashed into the rocks and sank. He read about the disaster in the morning paper."
+    }
+  },
+  {
+    "id": 90,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "Az elkésett levél",
+      "riddle": "Egy börtönből frissen szökött férfi kap egy levelet. Elolvassa, majd azonnal felakasztja magát. Ha a levél egy nappal korábban érkezik meg, még ma is élne. Mi állt benne?",
+      "solution": "A levél egy hivatalos kegyelmi kérvény jóváhagyása volt. A férfi azért szökött meg, mert azt hitte, kivégzik, a szökés közben pedig megölt egy őrt. Ha a kegyelem egy nappal előbb jön, nem szökik meg, és nem várt volna rá halálbüntetés a gyilkosságért."
+    },
+    "en": {
+      "title": "The Late Letter",
+      "riddle": "A man who recently escaped from prison receives a letter. He reads it and immediately hangs himself. If the letter had arrived one day earlier, he would still be alive. What did it say?",
+      "solution": "The letter was an official pardon for his original crime. He had escaped because he feared execution, killing a guard in the process. If the pardon had arrived a day earlier, he wouldn't have escaped and wouldn't face death row for murder."
+    }
+  },
+  {
+    "id": 91,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A két ikertestvér",
+      "riddle": "Két ikertestvér bemegy egy bárba. Mindketten pontosan ugyanazt a jeges koktélt rendelik. Az egyikük nagyon szomjas, gyorsan megissza és távozik. A másik lassan kortyolgatja. A második testvér pár perc múlva meghal. Miért?",
+      "solution": "A jégkockákba méreg volt fagyasztva. Az első testvér olyan gyorsan megitta a koktélját, hogy a jégnek nem volt ideje elolvadni, így a méreg bent maradt. A második testvérnél a jég elolvadt, és a méreg a szervezetébe jutott."
+    },
+    "en": {
+      "title": "The Two Twin Brothers",
+      "riddle": "Two identical twin brothers enter a bar. Both order the exact same iced cocktail. One brother is very thirsty, drinks his quickly, and leaves. The other sips his slowly. The second brother dies minutes later. Why?",
+      "solution": "The poison was frozen inside the ice cubes. The first brother drank so quickly that the ice didn't have time to melt, keeping the poison trapped. The second brother let his ice melt, releasing the poison into his drink."
+    }
+  },
+  {
+    "id": 92,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "Búvár a híd alatt",
+      "riddle": "Egy férfit holtan találnak egy erdei híd alatt, búvárruhában és oxigénpalackkal a hátán. A legközelebbi tó vagy folyó több mint 15 kilométerre van. Hogyan került oda?",
+      "solution": "A férfi egy tóban búvárkodott, amikor egy erdőtűzhöz vizet merítő tűzoltó repülőgép véletlenül felszippantotta őt a vízzel együtt, majd a lángoló erdő (és a híd) felett kidobta."
+    },
+    "en": {
+      "title": "The Diver Under the Bridge",
+      "riddle": "A man is found dead under a forest bridge wearing full scuba gear. The nearest lake or river is over 15 kilometers away. How did he get there?",
+      "solution": "He was diving in a lake when a firefighting plane scooping up water to combat a nearby forest fire accidentally sucked him up and dropped him over the burning trees near the bridge."
+    }
+  },
+  {
+    "id": 93,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A golyóálló mellény",
+      "riddle": "Egy férfi vesz egy méregdrága, csúcsminőségű golyóálló mellényt. Hogy tesztelje, felveszi, majd szíven lövi magát egy fegyverrel. A mellény hibátlanul működött, a férfi mégis azonnal meghalt. Miért?",
+      "solution": "A férfi nem lőfegyverrel, hanem egy számszeríjjal lőtt magára. A puha golyóálló mellények kiválóan megállítják a golyókat, de a hegyes, vágó nyilvántartások és kések könnyen áthatolnak a szálak között."
+    },
+    "en": {
+      "title": "The Bulletproof Vest",
+      "riddle": "A man buys an expensive, top-tier bulletproof vest. To test it, he puts it on and shoots himself in the chest. The vest worked flawlessly, yet the man died instantly. Why?",
+      "solution": "The man didn't use a gun; he shot himself with a crossbow. Soft bulletproof vests are designed to stop blunt bullets but are easily penetrated by sharp, pointed objects like arrows or knives."
+    }
+  },
+  {
+    "id": 94,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A kapzsi kincskereső",
+      "riddle": "Egy kincskereső egy elsüllyedt hajó mélyén rátalál egy láda aranyra. Telepakolja a zsebeit aranyérmékkel, de amikor megpróbál felúszni, megfullad. Az oxigénpalackja működött és tudott úszni. Miért halt meg?",
+      "solution": "A nehéz arany lehúzta a mélybe. A kapzsisága miatt nem volt hajlandó időben kiüríteni a zsebeit, így a súly miatt nem tudott felúszni a felszínre, mielőtt elfogyott az oxigénje."
+    },
+    "en": {
+      "title": "The Greedy Treasure Hunter",
+      "riddle": "A treasure hunter finds a chest of gold inside a sunken shipwreck. He stuffs his pockets with gold coins, but when he tries to swim back up, he drowns. His oxygen tank worked and he was a great swimmer. Why?",
+      "solution": "The heavy gold weighed him down. Due to sheer greed, he refused to empty his pockets until it was too late, preventing him from swimming to the surface before running out of air."
+    }
+  },
+  {
+    "id": 95,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A piros gomb",
+      "riddle": "Egy férfi egy kis szobában ül. Megnyom egy piros gombot. Néhány másodperccel később rájön, hogy szörnyű hibát követett el, elsírja magát, mert tudja, hogy meg fog halni. Mi volt a gomb?",
+      "solution": "A férfi egy űrhajós volt a világűrben, és véletlenül a zsilipajtó vésznyitó gombját (vagy az oxigéntartály leeresztő gombját) nyomta meg, így kiszippantotta a vákum."
+    },
+    "en": {
+      "title": "The Red Button",
+      "riddle": "A man is sitting in a small room. He presses a red button. A few seconds later, he realizes he made a terrible mistake and begins to cry, knowing he will die. What did the button do?",
+      "solution": "The man was an astronaut in a space capsule, and he accidentally pressed the emergency airlock release button, venting his capsule's oxygen into the vacuum of space."
+    }
+  },
+  {
+    "id": 96,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "Albatroszhús",
+      "riddle": "Egy férfi bemegy egy étterembe, és albatroszhúst rendel. Megkóstolja, fizet, majd kimegy a tengerpartra, és egy revolverrel főbe lövi magát. Miért?",
+      "solution": "A férfi évekkel korábban hajótörést szenvedett a feleségével és a barátjával. A felesége meghalt, és a barátja később 'albatroszhúst' adott neki enni, hogy életben tartsa. Amikor most megkóstolta a valódi albatroszhúst, rájött, hogy akkor a felesége húsát etették meg vele, és a bűntudat miatt öngyilkos lett."
+    },
+    "en": {
+      "title": "Albatross Meat",
+      "riddle": "A man walks into a restaurant and orders albatross meat. He takes one bite, pays the bill, walks down to the beach, and shoots himself in the head with a revolver. Why?",
+      "solution": "Years ago, the man was shipwrecked on an island with his wife and a friend. His wife died, and the friend later fed him what he claimed was 'albatross meat' to keep him alive. After tasting real albatross at the restaurant, the man realized he had actually eaten his deceased wife, and shot himself out of grief and guilt."
+    }
+  },
+  {
+    "id": 97,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A liftes ember",
+      "riddle": "Egy férfi a 10. emeleten lakik. Amikor hazatér a munkából, a lifttel felmegy a 7. emeletre, majd a lépcsőn gyalogol fel a 10.-re. Ha esik az eső, vagy más is utazik vele a liftben, közvetlenül a 10.-ig megy. Miért?",
+      "solution": "A férfi alacsony növésű (törpe). Csak a 7-es gombig ér fel a liftben. Ha esik az eső, az esernyőjével eléri a 10-est, ha pedig van vele valaki, megkéri, hogy nyomja meg neki."
+    },
+    "en": {
+      "title": "The Elevator Man",
+      "riddle": "A man lives on the 10th floor. When returning home from work, he takes the elevator to the 7th floor and walks the remaining stairs to the 10th. On rainy days or if someone else is in the elevator, he goes straight to the 10th floor. Why?",
+      "solution": "The man is a dwarf. He can only reach as high as the button for the 7th floor. On rainy days, he uses his umbrella to press the 10th floor button, and if someone else is with him, he asks them to press it for him."
+    }
+  },
+  {
+    "id": 98,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A gyilkos bélyeg",
+      "riddle": "Egy gazdag asszonyt holtan találnak a dolgozószobájában. Egyetlen külsérelmi nyom sincs rajta, de az íróasztalán egy halom lezárt, felbélyegzett boríték hever. Hogyan halt meg?",
+      "solution": "A nő ellensége mérget kent a postai bélyegek hátuljára. Az asszony a nyelvével nedvesítette meg a bélyegeket a ragasztáshoz, és a szervezetbe jutó méreg végzett vele."
+    },
+    "en": {
+      "title": "The Poisoned Stamp",
+      "riddle": "A wealthy woman is found dead in her study. There are no signs of violence on her body, but a pile of sealed, stamped envelopes lies on her desk. How did she die?",
+      "solution": "Her enemy had coated the adhesive back of the postage stamps with a deadly, tasteless poison. She licked the stamps to stick them on the envelopes, ingesting the poison and dying shortly after."
+    }
+  },
+  {
+    "id": 99,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Kabin az erdőben",
+      "riddle": "Egy erdő közepén egy fém kabint találnak, amelyben harminc ember fekszik holtan. Nincs nyoma erőszaknak, harcnak vagy mérgezésnek. Mi történt?",
+      "solution": "A fém 'kabin' valójában egy utasszállító repülőgép utastere (angolul cabin) volt, amely lezuhant az erdő közepén, és az utasok az ütközésben vesztették életüket."
+    },
+    "en": {
+      "title": "The Cabin in the Woods",
+      "riddle": "In the middle of a forest, a metal cabin is found with thirty dead bodies inside. There are no signs of struggle, violence, or poisoning. What happened?",
+      "solution": "The metal cabin was actually the passenger cabin of an airplane that crashed in the middle of the forest, killing everyone on board upon impact."
+    }
+  },
+  {
+    "id": 100,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Mary és John",
+      "riddle": "Mary és John élettelenül fekszenek a szoba padlóján. Körülöttük víz és üvegszilánkok borítják a szőnyeget. Az egyetlen szemtanú a macska, aki a sarokban ül. Hogyan haltak meg?",
+      "solution": "Mary és John aranyhalak voltak. A macska leverte az akváriumukat a szekrényről, az összetört, a halak pedig megfulladtak a szárazon."
+    },
+    "en": {
+      "title": "Mary and John",
+      "riddle": "Mary and John are found lying dead on the floor of a room. There is water and broken glass scattered all over the carpet. The only witness is the cat sitting in the corner. How did they die?",
+      "solution": "Mary and John were goldfish. The cat knocked their fishbowl off the shelf, causing it to shatter on the floor, and they suffocated without water."
+    }
+  },
+  {
+    "id": 101,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A könyvlapok",
+      "riddle": "Egy szerzetest holtan találnak a kolostor könyvtárában. A halálát méreg okozta, de nem evett és nem ivott semmit, és sérülés sincs rajta. Hogyan került a méreg a szervezetébe?",
+      "solution": "A szerzetes egy ritka, tiltott könyvet olvasott, amelynek lapjait az apát korábban méreggel kente be. Mivel a lapok tapadtak, a szerzetes minden lapozásnál megnyálazta az ujját, így fokozatosan megmérgezte magát."
+    },
+    "en": {
+      "title": "The Pages of the Book",
+      "riddle": "A monk is found dead in the monastery library. His death was caused by poison, but he had not eaten or drunk anything, and there are no wounds on his body. How did the poison enter his system?",
+      "solution": "The monk was reading a rare, forbidden book whose pages had been coated with a deadly poison by the abbot. Since the pages stuck together, the monk licked his finger each time he turned a page, slowly poisoning himself to death."
+    }
+  },
+  {
+    "id": 102,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A tapsoló tömeg",
+      "riddle": "Egy vak kötéltáncos fellépés közben hirtelen leugrik a magasban feszülő kötélről a mélybe és szörnyethal. Nem veszítette el az egyensúlyát, és nem akart öngyilkos lenni. Miért ugrott?",
+      "solution": "A vak kötéltáncos a közönség tapsából tudta, mikor ért el a kötél végén lévő biztonságos emelvényre. Egy néző azonban túl korán kezdett el tapsolni, a kötéltáncos azt hitte, megérkezett, és magabiztosan lelépett a semmibe."
+    },
+    "en": {
+      "title": "The Applauding Crowd",
+      "riddle": "A blind tightrope walker suddenly steps off his high wire during a performance, falling to his death. He did not lose his balance, and he did not want to commit suicide. Why did he jump?",
+      "solution": "The blind performer relied on the crowd's applause to know when he had successfully reached the safety platform at the end of the rope. A spectator clapped prematurely, leading the acrobat to believe he had arrived, causing him to step off into empty air."
+    }
+  },
+  {
+    "id": 103,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A leláncolt búvár",
+      "riddle": "Egy búvárt holtan találnak a tenger fenekén, egy nehéz fémládához láncolva. Az oxigénpalackja teljesen tele van, és a lakat kulcsa ott lebeg tőle alig pár centire, mégsem tudta megmenteni magát. Miért?",
+      "solution": "A fém ládában egy rendkívül erős elektromágnes volt. Ez magához vonzotta a kulcsot, és a búvár fémből készült felszerelését is olyan erővel tapasztotta a ládához, hogy képtelen volt megmozdulni vagy elérni a kulcsot."
+    },
+    "en": {
+      "title": "The Chained Diver",
+      "riddle": "A diver is found dead at the bottom of the sea, chained to a heavy metal chest. His oxygen tank is completely full, and the key to the padlock is floating just inches away, yet he couldn't save himself. Why?",
+      "solution": "The metal chest contained an extremely powerful electromagnet. It attracted the key to its surface and pinned the diver's metal scuba gear so tightly against the chest that he was completely paralyzed and unable to reach the key."
+    }
+  },
+  {
+    "id": 104,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A sivatagi csomag",
+      "riddle": "Egy férfit holtan találnak a sivatag közepén. Mellette egy bontatlan, hátizsákszerű csomag fekszik. Ha kinyitotta volna a csomagot, most is élne. Mi volt benne?",
+      "solution": "A csomagban egy ejtőernyő volt. A férfi kiugrott egy repülőgépből, de a főernyője és a pótnyitója is beszorult, így nem tudta kinyitni a csomagot a becsapódás előtt."
+    },
+    "en": {
+      "title": "The Desert Package",
+      "riddle": "A man is found dead in the middle of a desert. Next to him lies an unopened backpack-like package. If he had opened the package, he would still be alive. What was inside?",
+      "solution": "The package contained a parachute. The man had jumped from a plane, but his parachute malfunctioned and remained jammed inside, preventing him from opening it before hitting the ground."
+    }
+  },
+  {
+    "id": 105,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A cipőbolt",
+      "riddle": "Egy nő bemegy egy cipőboltba, vesz egy új pár cipőt, majd elmegy dolgozni. Pár órával később meghal. Hogyan kapcsolódik az új cipő a halálához?",
+      "solution": "A nő egy bűvész asszisztense volt, akit a híres 'fűrészelős' vagy 'kardos' trükknél zártak be a dobozba. Az új, magasabb sarkú cipője miatt pár centivel megnyúlt a pozíciója a dobozban, így a bűvész által áttolt kard halálosan megsebesítette."
+    },
+    "en": {
+      "title": "The Shoe Store",
+      "riddle": "A woman enters a shoe store, buys a pair of new shoes, and goes to work. A few hours later, she is dead. How are the shoes connected to her death?",
+      "solution": "The woman was a magician's assistant for a sword-cabinet illusion. Her new high-heeled shoes made her slightly taller inside the box, causing her to misalign with the safe zones. As a result, one of the swords driven into the box struck and killed her."
+    }
+  },
+  {
+    "id": 106,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A halálos suttogás",
+      "riddle": "Egy férfi fülébe súg valaki egyetlen mondatot egy elegáns partin. A férfi azonnal elfehéredik, szó nélkül hazarohan, és felakasztja magát. Mit mondtak neki?",
+      "solution": "A mondat így szólt: 'A feleséged mindent megtudott.' A férfi titokban megölte a felesége szeretőjét, és azt hitte, tökéletes gyilkosságot követett el. Amikor rájött, hogy lebukott, a börtön elől az öngyilkosságba menekült."
+    },
+    "en": {
+      "title": "The Deadly Whisper",
+      "riddle": "Someone whispers a single sentence into a man's ear at an elegant party. The man instantly turns pale, runs home without saying a word, and hangs himself. What was said to him?",
+      "solution": "The sentence was: 'Your wife found out everything.' The man had secretly murdered his wife's lover, believing he had committed the perfect crime. Realizing his secret was out and prison was inevitable, he chose suicide."
+    }
+  },
+  {
+    "id": 107,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A fagyos halál",
+      "riddle": "Egy férfit fagyhalál állapotában találnak meg egy sivatagi országban lévő lakásában, ahol tombol a 40 fokos hőség. Hogyan fagyott meg?",
+      "solution": "A férfi egy folyékony nitrogént szállító tartálykocsi tisztításakor véletlenül bezáródott a tartályba, és ott fagyott meg. A munkatársai pánikba estek, és hazavitték a holttestét, hogy elkerüljék a felelősségre vonást."
+    },
+    "en": {
+      "title": "The Frozen Death",
+      "riddle": "A man is found frozen to death inside his apartment in a desert country, where the outside temperature is a scorching 40 degrees Celsius. How did he freeze?",
+      "solution": "The man was cleaning a liquid nitrogen tanker truck when he got accidentally locked inside and froze to death. His panicked coworkers snuck his body back to his apartment to cover up the workplace accident."
+    }
+  },
+  {
+    "id": 108,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A fülhallgató",
+      "riddle": "Egy lány a vasúti síneken sétál, és zenét hallgat a fülhallgatóján. Látja, hogy szemből érkezik a vonat, mégsem lép le a sínekről, és elgázolja. Nem akart öngyilkos lenni. Miért maradt ott?",
+      "solution": "A pálya kétvágányú volt. A lány látta a szomszédos vágányon szemből érkező vonatot, és arra figyelt, de a fülhallgatója miatt nem hallotta, hogy a saját vágányán, közvetlenül a háta mögül is közeledik egy másik vonat."
+    },
+    "en": {
+      "title": "The Headphones",
+      "riddle": "A girl is walking along railroad tracks listening to music through headphones. She sees a train approaching from the front on the adjacent tracks but doesn't step off her own, and is hit. She did not want to commit suicide. Why did she stay?",
+      "solution": "The railway had double tracks. She noticed the train coming from the front on the opposite track and focused on watching it pass, but due to her loud music, she didn't hear a second train approaching on her own track from behind."
+    }
+  },
+  {
+    "id": 109,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A mérgezett leves",
+      "riddle": "Egy férfi gombalevest eszik egy étteremben. Megkérdezi a pincért, ki főzte, majd a név hallatán azonnal összeesik és szívrohamot kap. A leves egyáltalán nem volt mérgezett. Mi történt?",
+      "solution": "A szakács a férfi régen eltűnt öccse volt, akit a férfi évekkel ezelőtt megpróbált meggyilkolni az örökségért, és azt hitte, sikerült is neki. Amikor megtudta, hogy az öccse él és ő főzött rá, azt hitte, bosszúból megmérgezte a levest, és a sokktól megállt a szíve."
+    },
+    "en": {
+      "title": "The Poisoned Soup",
+      "riddle": "A man eats mushroom soup at a restaurant. He asks the waiter who prepared it, and upon hearing the name, he collapses and dies of a heart attack. The soup was not poisoned at all. What happened?",
+      "solution": "The chef was the man's long-lost younger brother, whom the man had tried to murder years ago for inheritance money, believing he succeeded. Hearing his brother's name made him think his brother had survived, recognized him, and poisoned his soup, causing a fatal heart attack from sheer panic."
+    }
+  },
+  {
+    "id": 110,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "Az óra megállt",
+      "riddle": "Egy idős férfi faliórája éjfélkor megáll. Néhány másodperccel később a férfi holtan esik össze a hálószobájában. Hogyan kapcsolódik az óra a halálához?",
+      "solution": "A férfi egy vastüdőhöz (légzéstámogató géphez) volt kapcsolva, amely ugyanarról a hálózatról működött, mint a falióra. Éjfélkor áramszünet lett, így az óra is megállt, és az életmentő gép is leállt."
+    },
+    "en": {
+      "title": "The Clock Stopped",
+      "riddle": "An old man's wall clock stops ticking at midnight. A few seconds later, the man collapses and dies in his bedroom. How is the clock connected to his death?",
+      "solution": "The man was dependent on an iron lung machine to breathe, which was plugged into the same electrical circuit as the wall clock. A sudden power outage at midnight caused both the clock to stop and the life-support machine to fail."
+    }
+  },
+  {
+    "id": 111,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A rettegő férfi",
+      "riddle": "Egy jósnő azt mondja egy férfinak, hogy a következő telihold éjszakáján meg fog halni. A férfi annyira retteg, hogy bezárkózik egy teljesen sötét, ablaktalan szobába, és folyamatosan nyugtatókat szed. A telihold éjjelén mégis meghal. Mi végzett vele?",
+      "solution": "A férfi a pániktól és a folyamatos szorongástól hajtva véletlenül túladagolta a nyugtatókat a sötét szobában. Így közvetve a saját rettegése és a jóslattól való félelme okozta a halálát."
+    },
+    "en": {
+      "title": "The Terrified Man",
+      "riddle": "A fortune teller predicts that a man will die on the night of the next full moon. The man is so terrified that he locks himself in a pitch-black, windowless room and constantly takes sedatives. On the night of the full moon, he is found dead. What killed him?",
+      "solution": "Driven by intense panic and anxiety, the man accidentally overdosed on his sedatives in the dark room. Thus, his own fear and attempt to escape the prophecy directly caused his death."
+    }
+  },
+  {
+    "id": 112,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A vörös szőnyeg",
+      "riddle": "Egy férfi végigsétál egy luxusszálloda folyosóján lévő elegáns vörös szőnyegen, majd belép a szobájába. Amikor meglátja a szoba belsejét, rájön, hogy egy gyilkos van a házban, de már nem tud elmenekülni. Mit látott?",
+      "solution": "A 'vörös szőnyeg', amin végigsétált, valójában egy friss vérnyom volt, amit a gyilkos húzott maga után a folyosón. Amikor belépett, meglátta a szobájában fekvő áldozatot és a fegyveres gyilkost, aki rá várt."
+    },
+    "en": {
+      "title": "The Red Carpet",
+      "riddle": "A man walks down a luxury hotel corridor on a plush red carpet and enters his room. Upon seeing the room's interior, he instantly realizes there is a killer in the building, but it's too late to escape. What did he see?",
+      "solution": "The 'red carpet' he had walked on was actually a long trail of fresh blood dragged down the hallway. Upon entering his room, he found the corpse of the previous guest and the armed killer waiting for him."
+    }
+  },
+  {
+    "id": 113,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A halálos parfüm",
+      "riddle": "Egy nő vesz egy egzotikus, különleges illatú parfümöt. Magára fújja, majd elmegy az állatkertbe sétálni. Egy órával később holtan találják a tigrisek kifutójában, bár a kerítések teljesen épek. Hogyan került oda?",
+      "solution": "A parfüm olyan ritka macska-feromonokat és macskamenta-kivonatot tartalmazott, ami megőrjítette az egyik hím tigrist. A fenevad átugrotta a vizesárkot, áthúzta a nőt a korláton, és behurcolta a kifutóba."
+    },
+    "en": {
+      "title": "The Deadly Perfume",
+      "riddle": "A woman buys an exotic, uniquely scented perfume. She sprays it on and goes for a walk at the local zoo. An hour later, she is found dead inside the tiger enclosure, even though the fences are intact. How did she get there?",
+      "solution": "The perfume contained rare feline pheromones and catnip extracts that drove a male tiger wild. The beast leaped over the safety moat, dragged the woman over the safety railing, and pulled her into the enclosure."
+    }
+  },
+  {
+    "id": 114,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "Az autó a fán",
+      "riddle": "Egy férfit holtan találnak egy autó vezetőülésében egy sűrű erdő közepén. Az autó egy fának ütközött, de semmilyen keréknyom nincs a földön, és a környező fák is teljesen épek. Hogyan került oda?",
+      "solution": "Az autót és a sofőrt egy pusztító tornádó kapta fel a közeli autópályáról, kilométereken át repítette, majd pont a sűrű erdő lombkoronájába dobta le, ahol a fának ütközve a sofőr szörnyethalt."
+    },
+    "en": {
+      "title": "The Car in the Tree",
+      "riddle": "A man is found dead in the driver's seat of a car in the middle of a dense forest. The car crashed into a tree, but there are no tire tracks on the ground, and the surrounding trees are completely undamaged. How did it get there?",
+      "solution": "A violent tornado picked up the car and its driver from a nearby highway, carried it for miles, and dropped it directly onto the canopy of the dense forest, where the impact with a tree killed the driver instantly."
+    }
+  },
+  {
+    "id": 115,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "Az utolsó cigaretta",
+      "riddle": "Három katona a lövészárokban megoszt egy szál gyufát, hogy rágyújtsanak. Miután a harmadik katona is meggyújtja a cigarettáját, egy ellenséges mesterlövész azonnal fejbe lövi őt. Miért pont őt?",
+      "solution": "A mesterlövész a sötétben az első gyújtásnál vette észre a fényt, a másodiknál célzott, a harmadiknál pedig lőtt. Innen ered a katonai babona, miszerint szerencsétlenséget hoz, ha hárman gyújtanak rá egy gyufáról."
+    },
+    "en": {
+      "title": "The Last Cigarette",
+      "riddle": "Three soldiers in a trench share a single match to light their cigarettes in the dark. Right after the third soldier lights his, an enemy sniper shoots him in the head. Why him?",
+      "solution": "At the first light, the sniper spotted the flame in the dark. At the second, he adjusted his aim. At the third light, he pulled the trigger. This is the origin of the famous military superstition 'three on a match brings bad luck.'"
+    }
+  },
+  {
+    "id": 116,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A répa és a szén",
+      "riddle": "Egy udvaron egy sárgarépa, néhány darab szén és egy sál hever a fűben egymás mellett. Senki sem dobta el őket, és nem is hagyták el őket véletlenül. Hogy kerültek oda?",
+      "solution": "Egy hóember maradványai voltak, aki a tavaszi melegben teljesen elolvadt, így csak a belőle készült kiegészítők maradtak a földön."
+    },
+    "en": {
+      "title": "The Carrot and the Coal",
+      "riddle": "In a backyard, a carrot, a few pieces of coal, and a scarf are lying on the grass next to each other. No one threw them away, and they weren't dropped by accident. How did they get there?",
+      "solution": "They were the accessories of a snowman that completely melted in the warm spring weather, leaving only his nose, eyes, and scarf behind."
+    }
+  },
+  {
+    "id": 117,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A megperzselt föld",
+      "riddle": "Egy férfi egy kis szigeten ragad az óceán közepén, amit sűrű száraz fű borít. Hirtelen az erős széllel szemközti oldalon hatalmas tűz üt ki, ami megállíthatatlanul terjed felé. Cápa-veszély miatt nem ugorhat a vízbe. Meggyújt egy szál gyufát, és megmenti az életét. Hogyan?",
+      "solution": "Ellenegést alkalmazott. Meggyújtotta a füvet maga előtt, a szél pedig elvitte azt a tüzet a sziget másik vége felé. Amikor a saját kis területe leégett, ráállt a megperzselt, de már biztonságos földre, így a nagy tűznek nem maradt éghető anyaga, amikor elérte őt."
+    },
+    "en": {
+      "title": "The Scorched Earth",
+      "riddle": "A man is trapped on a small island covered in dry brush. A massive wildfire starts at one end of the island and the strong wind is blowing it directly toward him. He cannot jump into the shark-infested water. He lights a single match and saves his life. How?",
+      "solution": "He started a backfire. He lit the brush in front of him, and the wind carried that fire away. Once a patch of ground was burned and safe, he stood on the scorched earth. When the main wildfire reached him, it had no fuel left to burn."
+    }
+  },
+  {
+    "id": 118,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A törött gyufaszál",
+      "riddle": "Egy férfit holtan találnak a sivatag közepén, teljesen meztelenül. Semmilyen lábnyom vagy járműnyom nincs a közelben. A kezében egy törött gyufaszálat szorít. Hogyan halt meg?",
+      "solution": "A férfi társaival egy süllyedő hőlégballonon utazott. Hogy elkerüljék a lezuhanást, minden ruhájukat kidobták, de ez sem volt elég. Végül gyufaszálakkal sorsot húztak, és aki a törött szálot húzta (a férfi), annak ki kellett ugrania a halálba, hogy a többiek megmeneküljenek."
+    },
+    "en": {
+      "title": "The Broken Match",
+      "riddle": "A man is found dead in the middle of a desert, completely naked. There are no footprints or tire tracks nearby. In his hand, he tightly grips a broken matchstick. How did he die?",
+      "solution": "He was traveling in a hot air balloon with friends when it began to crash. After throwing out all their clothes to lose weight, they still needed to lose more. They drew matchsticks, and he drew the broken one, forcing him to jump to save the others."
+    }
+  },
+  {
+    "id": 119,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A telefonfülke",
+      "riddle": "Egy férfit holtan találnak egy nyilvános telefonfülkében. A fülke oldalsó üvegei be vannak törve, a férfi mindkét karja súlyosan meg van vágva, és elvérzett. A telefonkagyló még mindig lóg. Kivel beszélt és mi történt?",
+      "solution": "A férfi a barátjával beszélt telefonon, és büszkén mesélte, mekkora halat fogott. Amikor a karjaival széles körben mutatta a méretet ('Ekkora halat fogtam!'), véletlenül betörte a telefonfülke üvegfalait, és az éles szilánkok elvágták a verőereit."
+    },
+    "en": {
+      "title": "The Phone Booth",
+      "riddle": "A man is found dead inside a public phone booth. The glass windows on both sides are shattered, both of his arms are severely cut, and he bled to death. The phone is still off the hook. What happened?",
+      "solution": "The man was on the phone with a friend, bragging about a giant fish he had caught. When he gestured with his arms to show the size ('It was this big!'), his hands smashed through the glass panes of the booth, severing his arteries."
+    }
+  },
+  {
+    "id": 120,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A visszatekert szalag",
+      "riddle": "Egy férfit holtan találnak az íróasztalánál, kezében egy pisztollyal, előtte pedig egy diktafonnal. Amikor a detektív megnyomja a lejátszás gombot, a férfi hangját hallja: 'Nem bírom tovább, nincs miért élnem', majd egy lövés dörrenése hallatszik. A detektív azonnal tudja, hogy gyilkosság történt. Honnan?",
+      "solution": "Ha a férfi valóban főbe lőtte volna magát, miután rögzítette az üzenetet, nem lett volna képes visszatekerni a szalagot a felvétel elejére. Mivel a felvétel az elejétől indult, valaki másnak kellett visszatekercselnie azt."
+    },
+    "en": {
+      "title": "The Rewound Tape",
+      "riddle": "A man is found dead at his desk with a gun in his hand and a tape recorder in front of him. When the detective presses play, he hears: 'I can't go on, I have nothing to live for,' followed by a gunshot. The detective immediately knows it was murder. How?",
+      "solution": "If the man had actually shot himself right after recording his last words, he wouldn't have been able to rewind the tape. Since the tape was already rewound to the beginning, someone else must have done it after his death."
+    }
+  },
+  {
+    "id": 121,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "Az elvágott sétapálca",
+      "riddle": "Egy vak és törpenövésű férfit holtan találnak a szobájában. Körülötte rengeteg apró faforgács fekszik a földön. A kezében egy tőrt tart, amivel végzett magával. Miért lett öngyilkos?",
+      "solution": "Egy gonosz vetélytársa a cirkuszban titokban levágott egy darabot a férfi sétapálcájából. Mivel a férfi vak volt, a pálca hossza alapján tájékozódott. Amikor a pálca rövidebb lett, azt hitte, hogy hirtelen növésnek indult, ami miatt elveszítheti a munkáját mint cirkuszi törpe. Kétségbeesésében öngyilkos lett."
+    },
+    "en": {
+      "title": "The Shortened Cane",
+      "riddle": "A blind dwarf is found dead in his room, surrounded by tiny wood shavings. In his hand, he holds a dagger used to end his own life. Why did he commit suicide?",
+      "solution": "A cruel rival at the circus secretly sawed off a small piece of the blind man's walking cane. Since he was blind, he relied on the cane's height. Feeling the cane 'shorter', he mistakenly believed he was growing taller and would lose his job as a circus dwarf. Devastated, he took his own life."
+    }
+  },
+  {
+    "id": 122,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A szabadtéri mozi",
+      "riddle": "Egy férfi jegyet vesz a moziba, beül, majd pár perccel később holtan találják az ülésben, lőtt sebbel a fején. Senki sem hallott lövést, és senki sem látta a gyilkost elmenekülni, pedig a terem tele volt. Hogyan lehetséges ez?",
+      "solution": "Egy autósmoziról (drive-in) volt szó. A férfi a saját autójában ült, felhúzott ablakokkal, így senki sem hallotta a halkított fegyver dörrenését az éjszakában a többi autó sűrűjében."
+    },
+    "en": {
+      "title": "The Drive-In",
+      "riddle": "A man buys a movie ticket, sits down, and is found dead in his seat a few minutes later with a gunshot wound to his head. Nobody heard a gunshot, and nobody saw the killer escape, even though the venue was packed. How is this possible?",
+      "solution": "It was a drive-in theater. The man was sitting alone in his own car with the windows rolled up, which muffled the sound of the gunshot from the nearby cars in the dark."
+    }
+  },
+  {
+    "id": 123,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Az ablakmosó",
+      "riddle": "Egy férfi egy 50 emeletes felhőkarcoló 40. emeletének ablakát mossa. Hirtelen megcsúszik, elveszíti az egyensúlyát és kizuhan az ablakon. Semmilyen védőfelszerelést nem viselt, mégis teljesen sértetlenül ússza meg a zuhanást. Hogyan?",
+      "solution": "A férfi az ablakot a szoba belsejéből, azaz az épületen belülről mosta, így amikor megcsúszott, csak a szoba puha szőnyegére esett rá."
+    },
+    "en": {
+      "title": "The Window Cleaner",
+      "riddle": "A man is cleaning a window on the 40th floor of a 50-story skyscraper. Suddenly, he slips, loses his balance, and falls out. He wasn't wearing any safety gear, yet he walks away completely unharmed. How?",
+      "solution": "He was cleaning the window from the inside of the building, so when he slipped, he simply fell onto the office's plush carpet."
+    }
+  },
+  {
+    "id": 124,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A végzetes hívás",
+      "riddle": "Egy férfi otthon ül az ágyán, amikor megszólal a telefon. Felveszi, beleszól, de senki sem válaszol, csak egy fura kattanást hall. A férfi azonnal tudja, hogy a felesége meghalt. Honnan tudja?",
+      "solution": "A felesége kórházban volt intenzív osztályon, életfenntartó gépeken. A telefonhívás valójában a kórházból érkezett: az áramszünet miatt a kórházi telefonközpont automatikusan tárcsázta a segélyhívó számokat, a 'kattanás' pedig a feleségét életben tartó gépek leállásának zaja volt."
+    },
+    "en": {
+      "title": "The Fatal Call",
+      "riddle": "A man is sitting on his bed at home when his phone rings. He answers, speaks, but hears no reply, only a strange click. The man immediately knows his wife has died. How?",
+      "solution": "His wife was in the ICU on life support. The phone call was an automated emergency dialer from the hospital triggered by a sudden power failure. The click was the sound of the backup generators failing, meaning his wife's life support machine had shut down."
+    }
+  },
+  {
+    "id": 125,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A kétfelé vágott alma",
+      "riddle": "Két férfi osztozik egy almán. Az egyikük kettévágja egy késsel, és mindketten megeszik a maguk részét. Az egyik férfi percekkel később meghal mérgezésben, míg a másik makkegészséges marad. Hogyan mérgezte meg a gyilkos az áldozatát?",
+      "solution": "A gyilkos a késnek csak az egyik oldalát kente be méreggel. Amikor kettévágta az almát, a méreg csak az alma azon felére került rá, amit az áldozatnak adott."
+    },
+    "en": {
+      "title": "The Split Apple",
+      "riddle": "Two men share an apple. One of them cuts it in half with a knife, and they both eat their respective pieces. Minutes later, one of them dies of poisoning, while the other is perfectly fine. How did the killer poison his victim?",
+      "solution": "The killer had coated only one side of the knife blade with poison. When he sliced the apple, the poison was transferred exclusively to the half given to the victim, leaving the other half perfectly safe."
+    }
+  },
+  {
+    "id": 126,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "Az esernyős férfi",
+      "riddle": "Egy férfi az utcán sétál a szakadó esőben. Meglátja a buszmegállót, és hogy gyorsabban odaérjen, kinyitja az esernyőjét. Abban a pillanatban, ahogy az ernyő kinyílik, a férfi holtan esik össze. Mi történt?",
+      "solution": "Az esernyő fogantyújába egy rugós, mérgezett tű volt beépítve, ami a kinyitás gombjának megnyomásakor mélyen a tenyerébe fúródott. Egy bérgyilkos cserélte ki az esernyőjét."
+    },
+    "en": {
+      "title": "The Umbrella",
+      "riddle": "A man is walking down the street in pouring rain. He decides to open his umbrella to stay dry. The exact moment the umbrella pops open, the man collapses and dies. What happened?",
+      "solution": "The umbrella's handle was rigged with a spring-loaded, poisoned needle. When he pressed the button to open it, the needle shot into his palm, delivering a lethal dose of toxin. An assassin had swapped his umbrella."
+    }
+  },
+  {
+    "id": 127,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A potyautas",
+      "riddle": "Egy repülőtér melletti szántóföldön egy jéggé fagyott férfi holttestét találják meg nyáron, 35 fokos melegben. Sérülései alapján nagy magasságból esett le. Hogyan fagyhatott meg a nyári hőségben?",
+      "solution": "A férfi potyautas volt, aki a repülőgép futómű-aknájában bújt el. Repülés közben, 10 000 méteres magasságban a hőmérsékslet -50 fok alá süllyedt, így megfagyott. Amikor a gép leszálláshoz készülve kiengedte a futóművet, a teste kiesett a magasból."
+    },
+    "en": {
+      "title": "The Stowaway",
+      "riddle": "In a field near an airport, the frozen body of a man is found during the summer, in 35-degree heat. His injuries indicate he fell from a great height. How did he freeze to death in the summer heat?",
+      "solution": "The man was a stowaway who hid in the landing gear well of a commercial airplane. At cruising altitude (10,000 meters), the temperature dropped below -50°C, freezing him. When the plane lowered its landing gear for arrival, his body fell out."
+    }
+  },
+  {
+    "id": 128,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A néma levél",
+      "riddle": "Egy férfi kap egy levelet, amiben csak egy teljesen üres, fehér papírlap van. Elolvassa, majd azonnal sírva fakad és felhívja a temetkezési vállalatot. Miért?",
+      "solution": "A férfi és a halálos beteg édesanyja megegyeztek: ha az anya meghal, a nővére egy üres fehér lapot küld neki a borítékban, mert a gyásztól nem tudna sorokat írni. Így az üres lap az anyja halálát jelentette."
+    },
+    "en": {
+      "title": "The Blank Letter",
+      "riddle": "A man receives a letter containing only a completely blank, white sheet of paper. He looks at it, bursts into tears, and immediately calls a funeral home. Why?",
+      "solution": "The man and his terminally ill mother had agreed: if she passed away, his sister would send a completely blank sheet of paper, as she would be too grief-stricken to write any words. The blank paper was the silent announcement of her death."
+    }
+  },
+  {
+    "id": 129,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lezuhanó lift",
+      "riddle": "Egy férfi belép a liftbe a 30. emeleten. Menet közben a lift hirtelen megáll, a fények kialszanak. A férfi azonnal zokogni kezd, mert tudja, hogy a felesége meghalt. Miért?",
+      "solution": "A lift egy kórházban volt. A lift leállása áramszünetet jelentett. A férfi felesége a műtőasztalon feküdt nyitott szívműtéten, és az őt életben tartó szív-tüdő gép az áramszünet miatt azonnal leállt, így a felesége életét vesztette."
+    },
+    "en": {
+      "title": "The Plunging Lift",
+      "riddle": "A man enters an elevator on the 30th floor. Mid-ride, the elevator suddenly screeches to a halt and the lights go out. The man immediately bursts into tears, knowing his wife is dead. Why?",
+      "solution": "The elevator was in a hospital. The power outage that trapped him also cut power to the operating room where his wife was undergoing open-heart surgery, shutting down the heart-lung machine keeping her alive."
+    }
+  },
+  {
+    "id": 130,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A gázfűtés",
+      "riddle": "Egy férfit holtan találnak az autója vezetőülésében egy havas téli reggelen. A slusszkulcs el van fordítva, a tank teljesen üres. Nem követett el öngyilkosságot, és erőszaknak sincs nyoma. Hogyan halt meg?",
+      "solution": "A férfi elakadt a hóviharban, és bekapcsolva hagyta a motort és a fűtést, hogy ne fagyjon meg. Azonban a sűrű hó teljesen elzárta a kipufogócsövet, így a mérgező szén-monoxid gáz visszaáramlott az utastérbe, és megfojtotta őt."
+    },
+    "en": {
+      "title": "The Exhaust Pipe",
+      "riddle": "A man is found dead in the driver's seat of his car on a snowy winter morning. The ignition is on, but the gas tank is completely empty. He did not commit suicide, and there are no signs of foul play. How did he die?",
+      "solution": "The man got stuck in a snowdrift and kept the engine running to stay warm. However, the heavy falling snow completely blocked the exhaust pipe, forcing deadly carbon monoxide back into the car cabin, suffocating him."
+    }
+  },
+  {
+    "id": 131,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A visszaszámlálás",
+      "riddle": "Egy férfi feszülten figyel egy visszaszámlálót. Amikor az eléri a nullát, megkönnyebbülten felsóhajt, de pár másodperccel később szörnyethal. Mi történt?",
+      "solution": "A férfi egy halálraítélt volt, akinek a kivégzését másodpercre pontosan az elnöki kegyelem határidejének lejárta utánra ütemezték. A számláló a határidőt mutatta. Azt hitte, megmenekült, de a kivégzőosztag abban a másodpercben tüzelt, ahogy letelt az idő."
+    },
+    "en": {
+      "title": "The Fatal Countdown",
+      "riddle": "A man is intensely watching a countdown timer. When it hits zero, he sighs in relief, but just a few seconds later, he dies a violent death. What happened?",
+      "solution": "The man was a death row inmate waiting for a last-minute presidential pardon. The countdown was the deadline for the pardon. When it hit zero, he thought the execution was postponed, but in reality, the firing squad immediately pulled their triggers as the time expired."
+    }
+  },
+  {
+    "id": 132,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A halálos film",
+      "riddle": "Egy férfi filmet néz a nappalijában. Hirtelen feláll, felszalad az emeletre, és végez magával. Miért?",
+      "solution": "A film, amit nézett, a saját házának élő biztonsági kamerás felvétele volt. A képernyőn meglátta, hogy a betörők éppen végeznek a feleségével az emeleten, és tudta, hogy ő a következő. Kétségbeesésében maga vetett véget az életének."
+    },
+    "en": {
+      "title": "The Fatal Movie",
+      "riddle": "A man is watching a movie in his living room. Suddenly, he gets up, runs upstairs, and commits suicide. Why?",
+      "solution": "The 'movie' he was watching was actually the live feed from his home security cameras. On screen, he saw intruders brutally murdering his family upstairs and heading his way. In absolute despair and terror, he took his own life."
+    }
+  },
+  {
+    "id": 133,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A forró fürdő",
+      "riddle": "Egy nő egy luxushotel jakuzzijában pihen. Nagyon jól érzi magát, de fél óra múlva holtan találják a vízben. Nem fulladt meg, nem volt szívbeteg, és nem mérgezték meg. Mi végzett vele?",
+      "solution": "A nő a jakuzziban való lazítás előtt túl sok alkoholt és altatót fogyasztott. A forró víz és a szerek hatására a vérnyomása veszélyesen lecsökkent, elájult, és a teste túlhevült (hőguta), ami végzetes szervleállást okozott."
+    },
+    "en": {
+      "title": "The Hot Tub",
+      "riddle": "A woman is relaxing in a luxury hotel hot tub. She is enjoying herself, but half an hour later, she is found dead in the water. She didn't drown, had no heart condition, and wasn't poisoned. What killed her?",
+      "solution": "She had consumed a large amount of alcohol and sleeping pills before getting in. The combination of the hot water and the substances caused her blood pressure to plunge, making her pass out. She died of severe hyperthermia (heat stroke)."
+    }
+  },
+  {
+    "id": 134,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A gyilkos szappan",
+      "riddle": "Egy börtönben lévő fogoly zuhanyzás közben hirtelen összeesik és meghal. Nem verték meg, nem csúszott el, és nem volt beteg. Mi okozta a halálát?",
+      "solution": "A rab egy mérgezett szappant használt, amit a riválisai csempésztek be neki. A szappanban lévő méreg a bőr pórusain keresztül szívódott fel a forró zuhany alatt, és azonnali szívbénulást okozott."
+    },
+    "en": {
+      "title": "The Poisoned Soap",
+      "riddle": "A prison inmate suddenly collapses and dies while taking a shower. He wasn't beaten, didn't slip, and wasn't sick. What caused his death?",
+      "solution": "He used a poisoned soap smuggled in by rival inmates. Under the hot water, his skin pores dilated, allowing the highly toxic substance in the soap to absorb rapidly into his bloodstream, causing cardiac arrest."
+    }
+  },
+  {
+    "id": 135,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "Az összetört szemüveg",
+      "riddle": "Egy férfi egy teljesen elhagyatott szigeten él, ahol rengeteg élelem és konzerv van, amivel évekig túlélhetne. Egyik nap véletlenül leejti a szemüvegét, ami apró darabokra törik. Egy hét múlva éhen hal. Miért?",
+      "solution": "A férfi rendkívül erős dioptriás szemüveget viselt, anélkül szinte teljesen vak volt. Miután a szemüvege összetört, nem találta meg a konzerveket, és nem tudta kinyitni őket, így az élelem bősége ellenére éhen halt."
+    },
+    "en": {
+      "title": "The Broken Glasses",
+      "riddle": "A man lives alone on a deserted island stocked with enough canned food to last him for years. One day, he accidentally drops his glasses, shattering them completely. A week later, he starves to death. Why?",
+      "solution": "The man was legally blind without his extremely strong prescription glasses. Once they broke, he couldn't see well enough to locate or open the canned food, causing him to starve amidst plenty."
+    }
+  },
+  {
+    "id": 136,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A szolárium",
+      "riddle": "Egy nő bemegy egy szoláriumba, hogy lebarnuljon. Befekszik a gépbe, de másnap reggel holtan találják az üzletben. Mi okozta a halálát?",
+      "solution": "A szolárium időzítője meghibásodott, és a fedél lezáródott. A nő elaludt a kellemes melegben, a gép pedig órákon át folyamatosan működött, így a nő súlyos égési sérülések és kiszáradás miatt életét vesztette."
+    },
+    "en": {
+      "title": "The Tanning Bed",
+      "riddle": "A woman goes to a tanning salon. She gets into a tanning bed, but the next morning, she is found dead inside the machine. What caused her death?",
+      "solution": "The tanning bed's automatic timer malfunctioned and the lid jammed shut. The woman fell asleep in the warmth, and the machine kept running for hours, causing her to die of severe burns and extreme dehydration."
+    }
+  },
+  {
+    "id": 137,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A gyilkos arckép",
+      "riddle": "Egy híres festő elkészíti egy gazdag nemes portréját. Amikor a nemes meglátja a kész festményt, azonnal előveszi a pisztolyát, lelövi a festőt, majd magával is végez. Miért tette?",
+      "solution": "A nemes vak volt, és a festő azt ígérte neki, hogy a kép hűen tükrözi majd a valóságot. A nemes felesége azonban titokban elárulta neki, hogy a festő gúnyos torzképként, szörnyetegként ábrázolta őt, hogy megalázza a nyilvánosság előtt. A düh és a megalázottság miatt gyilkolt, majd öngyilkos lett."
+    },
+    "en": {
+      "title": "The Deadly Portrait",
+      "riddle": "A famous painter finishes a portrait of a wealthy nobleman. When the nobleman sees the completed painting, he immediately pulls out a gun, shoots the painter, and then shoots himself. Why?",
+      "solution": "The nobleman was blind and had trusted the painter to depict him with dignity. However, his unfaithful wife mockingly revealed to him that the painter had actually painted him as a grotesque monster to humiliate him in public. Driven by rage and shame, he killed them both."
+    }
+  },
+  {
+    "id": 138,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A nehéz láda",
+      "riddle": "Egy férfit holtan találnak egy zárt szobában, egy hatalmas fém láda mellett fekve. A láda teljesen üres, de a férfi halálát zúzódások és belső vérzés okozta. Hogyan ölte meg őt az üres láda?",
+      "solution": "A férfi egy tolvaj volt, aki be akarta törni a páncélszekrényt. A nehéz fém láda a szekrény tetején állt. Amikor megpróbálta lefeszegetni a páncélajtót, a rezgéstől a nehéz üres láda lebillent, egyenesen a fejére és a mellkasára esett, összezúzva őt."
+    },
+    "en": {
+      "title": "The Heavy Chest",
+      "riddle": "A man is found dead in a locked room next to a massive metal chest. The chest is completely empty, but the man died of crushing injuries and internal bleeding. How did the empty chest kill him?",
+      "solution": "The man was a burglar trying to pry open a safe. The heavy, empty metal chest was balanced on top of the safe. The vibrations from his break-in attempt caused the heavy chest to tip over, falling directly onto his head and chest, crushing him."
+    }
+  },
+  {
+    "id": 139,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A halálos karcolás",
+      "riddle": "Egy férfi megkarcolja az ujját egy régi, poros könyv borítójával. Pár órával később meghal. Nem kapott fertőzést, és nem vérzett el. Mi történt?",
+      "solution": "A könyv borítója egy mérgezett tűvel volt felszerelve, amit egy féltékeny férj helyezett el oda, tudva, hogy a felesége szeretője rendszeresen azt a könyvet olvassa a könyvtárban."
+    },
+    "en": {
+      "title": "The Deadly Scratch",
+      "riddle": "A man scratches his finger on the cover of an old, dusty book. A few hours later, he dies. He didn't get an infection, and he didn't bleed to death. What happened?",
+      "solution": "The book's cover was rigged with a tiny poisoned needle by a jealous husband. He knew his wife's lover regularly read that specific book in the library, making it the perfect murder weapon."
+    }
+  },
+  {
+    "id": 140,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A lezuhanó kő",
+      "riddle": "Egy férfi egy hegyi úton autózik. Hirtelen egy hatalmas kő zuhan a szélvédőjére. A férfi nem sérül meg a becsapódásban, mégis azonnal meghal szívrohamban. Mit látott a kövön?",
+      "solution": "A kőre egy kézzel írt üzenet volt rögzítve: 'Tudjuk, mit tettél a múlt nyáron, és te vagy a következő.' A férfi egy korábbi cserbenhagyásos gázolás elkövetője volt, és a zsarolás sokkja végzett vele."
+    },
+    "en": {
+      "title": "The Falling Rock",
+      "riddle": "A man is driving on a mountain road. Suddenly, a large rock crashes through his windshield. The man is completely untouched by the rock, yet he instantly dies of a heart attack. What did he see on the rock?",
+      "solution": "Taped to the rock was a handwritten note: 'We know what you did last summer, and you are next.' The man had committed a fatal hit-and-run months ago, and the sudden realization that he was found out caused his heart to fail."
+    }
+  },
+  {
+    "id": 141,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A bezárt autó",
+      "riddle": "Egy teherautóban egy férfit holtan találnak. Az ajtók kívülről zárva vannak, az ablakok felhúzva. A férfi kezében egy kulcscsomó van, de nem tudta kinyitni az ajtót. Miért halt meg?",
+      "solution": "A férfi egy hűtőkocsiban (teherautó rakterében) ragadt bent, ahová véletlenül bezáródott. Bár nála voltak a slusszkulcsok, a hűtőtér ajtaját csak kívülről lehetett kinyitni, így halálra fagyott."
+    },
+    "en": {
+      "title": "The Locked Car",
+      "riddle": "A man is found dead inside a truck. The doors are locked from the outside, the windows are rolled up. He has a set of keys in his hand but couldn't open the door. How did he die?",
+      "solution": "The 'truck' was actually a refrigerated delivery truck cargo area. He got locked inside accidentally. Even though he had the keys to the truck, the cargo door could only be opened from the outside, and he froze to death."
+    }
+  },
+  {
+    "id": 142,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A gyilkos fagylalt",
+      "riddle": "Egy kislány fagylaltot vesz a parkban. Megeszi, majd pár perccel később holtan esik össze. Nem volt allergiás, és a fagylalt sem volt mérgezett. Mi történt?",
+      "solution": "A kislány szárazjeget talált a fagylaltos kocsi mellett, amit a fagylaltos a hűtéshez használt. Azt hitte, közönséges jég, és lenyelt egy darabot. A szárazjég a gyomrában hirtelen gázzá alakult, ami belső sérüléseket és fulladást okozott."
+    },
+    "en": {
+      "title": "The Poisoned Scoop",
+      "riddle": "A young girl buys ice cream in the park. She eats it and collapses dead minutes later. She had no food allergies, and the ice cream was not poisoned. What happened?",
+      "solution": "The girl found a piece of dry ice discarded near the ice cream cart, which was used to keep the products cold. Thinking it was regular ice, she swallowed a chunk. The dry ice rapidly sublimated into carbon dioxide gas in her stomach, causing fatal internal rupture."
+    }
+  },
+  {
+    "id": 143,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "Az ikerteszt",
+      "riddle": "Egy nő szül két ikerfiút. Bár ugyanazon a napon, ugyanabban az órában születtek, sőt még a szüleik is megegyeznek, mégsem ikrek. Hogyan lehetséges ez?",
+      "solution": "Nem ikrek, hanem hármasikrek (vagy többesikrek) voltak, de a harmadik testvérről nem szólt a fáma."
+    },
+    "en": {
+      "title": "The Twin Test",
+      "riddle": "A woman gives birth to two identical boys on the exact same day, in the same hour, and they share the same parents, yet they are not twins. How is this possible?",
+      "solution": "They are part of a set of triplets (or quadruplets); the other sibling(s) were just not mentioned."
+    }
+  },
+  {
+    "id": 144,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A gyilkos sípszó",
+      "riddle": "Egy férfi megfúj egy kutyasípot. Bár az emberi fül számára hallhatatlan, a férfi másodpercekkel később holtan esik össze. Mi történt?",
+      "solution": "A férfi egy idegen, védett magánterületen sétált, és a magas frekvenciájú sípszóra a közelben lévő, speciálisan kiképzett harci őrkutyák rontottak rá, amelyek azonnal széttépték."
+    },
+    "en": {
+      "title": "The Fatal Whistle",
+      "riddle": "A man blows a dog whistle. Although the sound is inaudible to human eyes, he collapses dead seconds later. What happened?",
+      "solution": "The man was trespassing on a secured compound. The high-frequency whistle triggered a pack of trained, highly aggressive guard dogs, which attacked and mauled him to death."
+    }
+  },
+  {
+    "id": 145,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A mérgezett fogkefe",
+      "riddle": "Egy nő minden este gondosan megmossa a fogát. Egyik reggel holtan találják az ágyában. A boncolás szerint erős méreg végzett vele. Nem evett és nem ivott semmit a fogmosás óta. Hogyan mérgezték meg?",
+      "solution": "A férje lassan felszívódó, rendkívül erős idegmérget kent a fogkeféje sörtéire. A méreg a fogmosás során közvetlenül az ínyén keresztül szívódott fel a szervezetébe."
+    },
+    "en": {
+      "title": "The Poisoned Toothbrush",
+      "riddle": "A woman brushes her teeth thoroughly every night. One morning, she is found dead in her bed. The autopsy reveals she was killed by a potent poison. She hadn't eaten or drunk anything since brushing her teeth. How was she poisoned?",
+      "solution": "Her husband had coated the bristles of her toothbrush with a slow-acting, highly lethal nerve agent. Each time she brushed, the poison was absorbed directly through her gums, eventually reaching a fatal dose."
+    }
+  },
+  {
+    "id": 146,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A hamis alibi",
+      "riddle": "Egy férfi azt állítja, hogy a gyilkosság időpontjában otthon nézte a tévét. A detektív megkérdezi tőle, mit látott. A férfi részletesen elmeséli a híradó híreit és az időjárás-jelentést. A detektív mégis azonnal letartóztatja. Miért?",
+      "solution": "A városban a gyilkosság alatt teljes áramszünet volt, így a férfi nem nézhette a televíziót otthon. Az alibijét előre kitervelte a korábbi napok adásai alapján."
+    },
+    "en": {
+      "title": "The False Alibi",
+      "riddle": "A man claims that during the movie, he was at home watching television. The detective asks him what was on, and the man gives a detailed account of the news and weather broadcast. The detective immediately arrests him anyway. Why?",
+      "solution": "There was a massive power outage in the entire neighborhood during the time of the crime, meaning the man could not have been watching TV at home. He had memorized a pre-recorded broadcast to forge his alibi."
+    }
+  },
+  {
+    "id": 147,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A liftzuhanás",
+      "riddle": "Egy lift elszabadul a 20. emeleten és zuhanni kezd. A benne lévő férfi az utolsó másodpercben felugrik a levegőbe, mégis szörnyethal, amikor a lift becsapódik. Hogyan menthette volna meg magát?",
+      "solution": "Sehogy. A felugrás nem semmisíti meg a zuhanás sebességét, a férfi ugyanúgy hatalmas erővel csapódott a lift padlójához. A túléléshez a padlóra kellett volna feküdnie, hogy eloszlassa az ütközés erejét."
+    },
+    "en": {
+      "title": "The Falling Elevator",
+      "riddle": "An elevator snaps at the 20th floor and plummets. The passenger inside jumps into the air at the very last second before impact, yet he is killed instantly anyway. How could he have saved himself?",
+      "solution": "He couldn't. Jumping does not cancel out the terminal velocity of the fall; he still hit the floor with fatal momentum. His best (though slim) chance of survival would have been to lie flat on the floor to distribute the impact force."
+    }
+  },
+  {
+    "id": 148,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A gyilkos gyűrű",
+      "riddle": "Egy férfi feleségül vesz egy nőt, és az esküvőn felhúzza az ujjára a családi örökség részét képező antik aranygyűrűt. Másnap a feleségét holtan találják. Nem mérgezték meg étellel, és nem esett bántódása. Mi végzett vele?",
+      "solution": "A gyűrű egy régi 'méreggyűrű' volt, aminek a belső felén egy apró, rejtett tű volt. A gyűrű felhúzásakor a tű megkarcolta a nő ujját, és a több száz éves, beszáradt, de még mindig aktív viperaméreg a vérébe jutott."
+    },
+    "en": {
+      "title": "The Deadly Ring",
+      "riddle": "A man marries a woman and slips an antique family heirloom gold ring onto her finger during the ceremony. The next day, the wife is found dead. She wasn't poisoned through food, and there was no violence. What killed her?",
+      "solution": "The ring was an ancient 'poison ring' featuring a tiny, hidden needle on the inside band. When the ring was forced onto her finger, the needle scratched her skin, injecting ancient, dried but still highly lethal viper venom into her bloodstream."
+    }
+  },
+  {
+    "id": 149,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A két kávé",
+      "riddle": "Egy nő mérgezett kávét szolgál fel a férjének és magának. Mindketten isznak belőle, de csak a férj hal meg, a nő teljesen jól van. Hogyan érte el a nő, hogy csak a férje poharában legyen méreg, ha ugyanabból a kancsóból öntött?",
+      "solution": "A méreg nem a kávéban, hanem a férj csészéjének szélére kent láthatatlan porban volt. Amikor a férj ivott belőle, a szája azonnal érintkezett a mérgező anyaggal."
+    },
+    "en": {
+      "title": "The Two Coffees",
+      "riddle": "A woman serves poisoned coffee to her husband and herself. Both drink from their cups, but only the husband dies; the woman is completely unharmed. How did she ensure only her husband's cup was lethal, if she poured from the exact same pot?",
+      "solution": "The poison was not in the coffee itself, but coated along the rim of the husband's cup. As he drank, his lips contacted the odorless, tasteless toxin, while her cup was perfectly clean."
+    }
+  },
+  {
+    "id": 150,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A leleplező kép",
+      "riddle": "Egy férfi lefényképezi a barátját a tengerparton. Miután megnézi a digitális képet a kameráján, azonnal előveszi a fegyverét és lelövi a barátját. Miért?",
+      "solution": "A fényképen a háttérben lévő üvegablak tükröződésében meglátta a feleségét és a barátját intim helyzetben, amint éppen az ő meggyilkolását tervezték. Rájött az árulásra, és megelőzte őket."
+    },
+    "en": {
+      "title": "The Unmasking Photo",
+      "riddle": "A man takes a photo of his friend at the beach. After looking at the digital image on his camera screen, he immediately pulls out his gun and shoots his friend dead. Why?",
+      "solution": "In the reflection of a nearby window in the photo, he saw his wife and this friend intimately embracing and discussing a plot to murder him. Realizing the betrayal, he acted first."
+    }
+  },
+  {
+    "id": 151,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A gyilkos tükör",
+      "riddle": "Egy férfi belép egy tükörlabirintusba. Pár perccel később holtan találják az egyik tükör előtt. Nem volt rajta semmilyen sérülés, de a halálát szívroham okozta. Mit látott?",
+      "solution": "A férfi mögött hirtelen megjelent egy valódi, a cirkuszból kiszabadult tigris, amit a tükörben vett észre. A rémülettől azonnal megállt a szíve, még mielőtt a ragadozó hozzáérhetett volna."
+    },
+    "en": {
+      "title": "The Deadly Mirror",
+      "riddle": "A man enters a mirror maze at a carnival. A few minutes later, he is found dead in front of one of the mirrors. There are no injuries on his body, but he died of a heart attack. What did he see?",
+      "solution": "He saw the reflection of an escaped tiger that had snuck into the maze behind him. The sheer terror of seeing the predator right behind him caused his heart to fail instantly, before the tiger even touched him."
+    }
+  },
+  {
+    "id": 152,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "Az aranyláz",
+      "riddle": "Egy aranyásó rátalál élete legnagyobb aranyrögére a hegyekben. Boldogan kiabálva szalad vissza a táborba, de útközben összeesik és meghal. Nem volt beteg, és senki sem támadta meg. Mi végzett vele?",
+      "solution": "A férfi a ritka aranyrögöt a szájában tartotta, hogy elrejtse a többi kapzsi aranyásó elől. A nagy rohanás és az ordítás közben véletlenül félrenyelte az aranyat, ami elzárta a légutait, és megfulladt."
+    },
+    "en": {
+      "title": "The Gold Rush",
+      "riddle": "A gold prospector finds the largest gold nugget of his life in the mountains. Screaming with joy, he runs back to camp, but collapses and dies along the way. He was healthy, and no one attacked him. What killed him?",
+      "solution": "To hide the valuable nugget from other greedy prospectors, he kept it inside his mouth while running. In his excitement and heavy breathing, he accidentally swallowed it, and the heavy nugget lodged in his windpipe, suffocating him."
+    }
+  },
+  {
+    "id": 153,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A gyilkos csend",
+      "riddle": "Egy apa éjszaka felébred a házban uralkodó teljes csendre. Azonnal berohan a fia szobájába, de már késő: a fiú meghalt. Miért jelentett veszélyt a csend?",
+      "solution": "A fia súlyos alvási apnoéban szenvedett, és egy folyamatosan működő elektromos légzéstámogató gép (CPAP) segítette az életben maradását. A hirtelen beálló áramszünet miatt a gép leállt (ezért lett síri csend), és a fiú megfulladt."
+    },
+    "en": {
+      "title": "The Deadly Silence",
+      "riddle": "A father wakes up in the middle of the night because of the absolute silence in the house. He immediately rushes to his son's room, but it's too late: the boy is dead. Why did the silence mean danger?",
+      "solution": "His son suffered from severe sleep apnea and used a CPAP machine. When a sudden power outage hit the house, the machine stopped running (causing the silence), and the boy tragically suffocated in his sleep."
+    }
+  },
+  {
+    "id": 154,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A végzetes ugrás",
+      "riddle": "Egy férfi kiugrik egy repülőgépből 5000 méter magasan. Bár az ejtőernyője hibátlanul működik és időben kinyílik, a férfi mégis szörnyethal, amikor földet ér. Miért?",
+      "solution": "A gép még a kifutópályán állt, nem szállt fel. A férfi pánikba esett egy téves tűzriadó miatt, kinyitotta a vészkijáratot és kiugrott a betonra, súlyos fej- és nyaksérülést szenvedve."
+    },
+    "en": {
+      "title": "The Fatal Jump",
+      "riddle": "A man jumps out of an airplane at 5000 meters. Although his parachute works perfectly and opens on time, he is killed instantly upon landing. Why?",
+      "solution": "The plane was actually parked on the airport runway and had not taken off yet. The man panicked due to a false fire alarm, opened the emergency exit, and jumped out onto the hard concrete, breaking his neck."
+    }
+  },
+  {
+    "id": 155,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A gyilkos széf",
+      "riddle": "Egy bankrabló sikeresen feltöri a legbiztonságosabb széfet. Amikor kinyitja az ajtót, nincs bent semmi más, csak egy halom papír. Bár teljesen egyedül van a szobában, a rabló pár perccel később holtan esik össze. Mi történt?",
+      "solution": "A széfben lévő papírok titkos dokumentumok voltak, amelyeket egy veszélyes, gyorsan párolgó vegyi anyaggal vontak be a kémek elleni védekezésként. A rabló belélegezte a gőzt, és azonnali mérgezést kapott."
+    },
+    "en": {
+      "title": "The Deadly Safe",
+      "riddle": "A bank robber successfully cracks open the most secure vault. When he opens the door, there is nothing inside except a pile of papers. Although he is completely alone, he collapses dead minutes later. What happened?",
+      "solution": "The papers in the vault were highly classified documents coated with a deadly, fast-acting chemical agent designed to kill anyone who opened the safe without authorization. He inhaled the lethal vapor and died."
+    }
+  },
+  {
+    "id": 156,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "Az ébresztőóra",
+      "riddle": "Egy férfi beállítja az ébresztőóráját reggel 6 órára, majd lefekszik aludni. Pontosan 6 órakor az óra megszólal, a férfi megijed, és azonnal meghal. Hogyan végzett vele az óra?",
+      "solution": "A férfi egy hivatásos bombakészítő volt, aki véletlenül az ébresztőóra belső áramkörét kötötte össze az ágya alatt heverő robbanószerkezet gyújtójával. Az óra csörgése helyett a bomba robbant fel."
+    },
+    "en": {
+      "title": "The Alarm Clock",
+      "riddle": "A man sets his alarm clock for 6:00 AM and goes to sleep. Exactly at 6:00 AM, the alarm goes off, and the man dies instantly. How did the clock kill him?",
+      "solution": "The man was a bomb maker who had accidentally wired his alarm clock to the detonator of an explosive device under his bed. Instead of ringing, the clock triggered the bomb, killing him in his sleep."
+    }
+  },
+  {
+    "id": 157,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A gyilkos zuhany",
+      "riddle": "Egy nő zuhanyozni megy a fürdőszobába. Pár perc múlva a férje sikolyt hall, berohan, és a feleségét holtan találja a kádban. A halálát áramütés okozta, de nem volt semmilyen elektromos eszköz a közelben. Hogyan történt?",
+      "solution": "A ház fűtési rendszere hibásodott meg. A bojler elektromos szála zárlatos lett, és a feszültséget közvetlenül a fém vízvezetékeken keresztül vezette a zuhanyrózsába, így a kifolyó víz rázta meg halálosan a nőt."
+    },
+    "en": {
+      "title": "The Deadly Shower",
+      "riddle": "A woman goes to take a shower. A few minutes later, her husband hears a scream, rushes in, and finds her dead in the tub. The cause of death was electrocution, but there were no electrical appliances nearby. How did it happen?",
+      "solution": "The home's water heating system was faulty. The electric heating element in the boiler short-circuited, sending high-voltage electricity directly through the metal pipes and into the running water, electrocuting her instantly."
+    }
+  },
+  {
+    "id": 158,
+    "category": "mystery",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A halálos jegy",
+      "riddle": "Egy nő vesz egy sorsjegyet, lekaparja, majd örömében sikítani kezd. Pár másodperccel később szívrohamot kap és meghal. Mit nyert?",
+      "solution": "A nő egy szívátültetésre várt, és a 'sorsjegy' valójában egy donor-értesítő levél volt, ami igazolta, hogy megvan a megfelelő szív. A hirtelen jött hatalmas megkönnyebbülés és izgalom azonban pont azt a gyenge szívet állította meg, amit meg akartak menteni."
+    },
+    "en": {
+      "title": "The Deadly Ticket",
+      "riddle": "A woman buys a lottery scratch-off ticket, scratches it, and screams in joy. Seconds later, she suffers a fatal heart attack. What did she win?",
+      "solution": "The 'ticket' was actually an official notification letter stating that a matching heart donor had been found for her urgent transplant. The overwhelming shock and joy caused her weak, failing heart to give out before she could receive the operation."
+    }
+  },
+  {
+    "id": 159,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "Az elkésett óra",
+      "riddle": "Egy férfi faliórája késik 10 percet. Emiatt a férfi meghal. Hogyan okozhatta a kis késés a halálát?",
+      "solution": "A férfi egy vasúti pályamunkás volt, aki azt hitte, még van 10 perce a következő gyorsvonat érkezéséig, ezért a síneken maradt dolgozni. A vonat a valós időben érkezett, és elütötte."
+    },
+    "en": {
+      "title": "The Broken Clock",
+      "riddle": "A man's wall clock is running 10 minutes slow. Because of this small delay, the man dies. How did the clock cause his death?",
+      "solution": "The man was a railway maintenance worker who checked his watch and believed he had 10 minutes before the next express train was scheduled to pass. He stayed on the tracks to finish a quick repair, but the train arrived on time and struck him."
+    }
+  },
+  {
+    "id": 160,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A halálos piknik",
+      "riddle": "Három barát piknikezni megy a hegyekbe. Esznek, isznak, jól érzik magukat. Másnap mindhármukat holtan találják a sátrukban. Nem mérgezték meg őket, és nem támadta meg őket senki. Mi végzett velük?",
+      "solution": "A barátok a sátorban egy faszenes grillt használtak, hogy melegen tartsák magukat az éjszakai fagyban. A zárt sátorban felhalmozódott, szagtalan szén-monoxid gáz álmukban végzett velük."
+    },
+    "en": {
+      "title": "The Deadly Picnic",
+      "riddle": "Three friends go on a picnic in the mountains. They eat, drink, and have a great time. The next morning, all three are found dead inside their tent. They weren't poisoned by food, and there are no signs of violence. What killed them?",
+      "solution": "To stay warm during the freezing night, they brought the charcoal grill inside the closed tent. The build-up of odorless carbon monoxide gas suffocated them in their sleep."
+    }
+  },
+  {
+    "id": 161,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A vakáció",
+      "riddle": "Egy nő boldogan tér haza a nyaralásból. Amikor belép a lakásába, azonnal sikít, majd elájul. A lakás érintetlen, semmi sem hiányzik. Miért?",
+      "solution": "A nő egy trópusi szigeten nyaralt, ahol megszokta a folyamatos madárcsicsergést. Otthon azonban teljes csend fogadta. Rájött, hogy a papagája, akit imádott, elpusztult a távollétében."
+      },
+    "en": {
+      "title": "The Vacation",
+      "riddle": "A woman returns happily from her holiday. When she enters her apartment, she screams and faints. Nothing is missing, and the place is untouched. Why?",
+      "solution": "She had spent her vacation on a tropical island full of constant birdsong. At home, she was met with complete silence. Her beloved parrot had died while she was away."
+    }
+  },
+  {
+    "id": 162,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A csendes vonat",
+      "riddle": "Egy férfi a vasúti sínek mellett holtan fekszik. Nincs rajta sérülés, a vonat pedig nem érte el. Miért halt meg?",
+      "solution": "A férfi süket volt, és nem hallotta, hogy a vonat közeledik. A mozdonyvezető időben észrevette, és vészfékezett. A férfi a hirtelen fékezés miatt fellépő légnyomásváltozás következtében szívrohamot kapott."
+    },
+    "en": {
+      "title": "The Silent Train",
+      "riddle": "A man is found dead beside the railway tracks. He has no injuries, and the train never hit him. Why did he die?",
+      "solution": "The man was deaf and didn’t hear the approaching train. The driver noticed him and braked hard. The sudden pressure wave from the emergency stop caused the man to suffer a fatal heart attack."
+    }
+  },
+  {
+    "id": 163,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A születésnapi torta",
+      "riddle": "Egy férfi belép a konyhába, meglátja a születésnapi tortáját az asztalon, és sírva fakad. A torta hibátlan, senki sem érte hozzá. Miért?",
+      "solution": "A férfi cukorbeteg volt, és az orvosa aznap közölte vele, hogy soha többé nem ehet édességet. A családja nem tudta ezt, és meglepték egy tortával."
+    },
+    "en": {
+      "title": "The Birthday Cake",
+      "riddle": "A man enters the kitchen, sees his birthday cake on the table, and bursts into tears. The cake is untouched. Why?",
+      "solution": "He had just learned from his doctor that he could never eat sweets again due to severe diabetes. His family, unaware of this, surprised him with a cake."
+    }
+  },
+  {
+    "id": 164,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lezárt lift",
+      "riddle": "Egy férfit holtan találnak egy liftben. A lift a földszinten áll, az ajtók nyitva vannak, és senki sem használta órák óta. Mi történt?",
+      "solution": "A férfi klausztrofóbiás volt. A lift meghibásodott és néhány percre beszorult vele. Mire az ajtók automatikusan kinyíltak, a férfi pánikrohamot kapott és szívmegállás következtében meghalt."
+    },
+    "en": {
+      "title": "The Locked Elevator",
+      "riddle": "A man is found dead inside an elevator. The elevator is on the ground floor, doors open, unused for hours. What happened?",
+      "solution": "He suffered from severe claustrophobia. The elevator malfunctioned and trapped him briefly. When the doors finally opened automatically, he had already died from a panic-induced cardiac arrest."
+    }
+  },
+  {
+    "id": 165,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A színházi taps",
+      "riddle": "Egy színész a színpadon összeesik és meghal. A közönség percekig tapsol, mert azt hiszik, a jelenet része. Miért halt meg?",
+      "solution": "A színész egy híres jelenetet játszott, amelyben a karakter szívrohamot kap. A valóságban azonban tényleg szívrohamot kapott, és senki sem sietett a segítségére, mert mindenki azt hitte, hogy csak játszik."
+    },
+    "en": {
+      "title": "The Theatre Applause",
+      "riddle": "An actor collapses on stage and dies. The audience applauds for minutes, thinking it’s part of the act. Why did he die?",
+      "solution": "He was performing a famous scene in which the character suffers a heart attack. In reality, he had a real heart attack, but no one helped because they believed it was acting."
+    }
+  },
+  {
+    "id": 166,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A csendes szomszéd",
+      "riddle": "Egy nő feljelenti a szomszédját, mert az soha nem csinál zajt. A rendőrség kiszáll, és holtan találja a férfit. Miért volt gyanús a csend?",
+      "solution": "A férfi minden nap hangosan edzett, zenét hallgatott és főzött. A nő tudta, hogy a szomszéd soha nem csendes. Amikor napokig nem hallott semmit, rájött, hogy baj lehet."
+    },
+    "en": {
+      "title": "The Silent Neighbor",
+      "riddle": "A woman reports her neighbor to the police because he never makes any noise. The police arrive and find him dead. Why was the silence suspicious?",
+      "solution": "The man was usually very loud—exercising, playing music, cooking. The woman knew he was never quiet. When she heard nothing for days, she realized something was wrong."
+    }
+  },
+  {
+    "id": 167,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A furcsa árnyék",
+      "riddle": "Egy férfi éjjel felébred, és egy emberi árnyékot lát a falon. Azonnal hívja a rendőrséget, majd meghal, mielőtt kiérnének. Miért?",
+      "solution": "A férfi epilepsziás volt, és a hirtelen fényváltozás (egy autó reflektora az ablakon át) rohamot váltott ki. Az árnyék valójában az ő saját alakja volt, amit a fény vetített a falra."
+    },
+    "en": {
+      "title": "The Strange Shadow",
+      "riddle": "A man wakes up at night and sees a human shadow on the wall. He calls the police immediately and dies before they arrive. Why?",
+      "solution": "He suffered from epilepsy, and the sudden flash of light (a car’s headlights through the window) triggered a fatal seizure. The shadow was simply his own silhouette cast by the light."
+    }
+  },
+  {
+    "id": 168,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A lezárt akvárium",
+      "riddle": "Egy férfit holtan találnak a nappalijában. A szoba érintetlen, de az akvárium üres, és a teteje zárva van. Mi történt?",
+      "solution": "A férfi mérgezett algát tett az akváriumba, hogy elpusztítsa a csigákat. A gázok lassan felszabadultak, és mivel a szoba zárt volt, ő belélegezte a mérget, miközben a halak már korábban elpusztultak."
+    },
+    "en": {
+      "title": "The Sealed Aquarium",
+      "riddle": "A man is found dead in his living room. The room is untouched, but the aquarium is empty and its lid is closed. What happened?",
+      "solution": "He had added poisoned algae to kill snails in the tank. The toxic fumes slowly built up, and in the sealed room he inhaled them. The fish had died earlier; he followed."
+    }
+  },
+  {
+    "id": 169,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A hangos taps",
+      "riddle": "Egy férfi egy koncerten ül. Amikor a közönség tapsolni kezd, a férfi feláll, kisétál, és soha többé nem tér vissza. Miért?",
+      "solution": "A férfi fülében egy kisméretű hallókészülék volt, amely meghibásodott és a taps hangját extrém erősséggel erősítette fel. A fájdalomtól pánikrohamot kapott."
+    },
+    "en": {
+      "title": "The Loud Applause",
+      "riddle": "A man sits at a concert. When the audience starts clapping, he stands up, walks out, and never returns. Why?",
+      "solution": "His small hearing aid malfunctioned and amplified the clapping to unbearable levels. The pain triggered a panic attack."
+    }
+  },
+  {
+    "id": 170,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lezárt postaláda",
+      "riddle": "Egy férfi holtan fekszik a háza előtt. A postaládája tele van levelekkel, pedig minden nap ki szokta üríteni. Miért gyanús ez?",
+      "solution": "A férfi postás volt, és minden reggel első dolga volt kiüríteni a saját postaládáját, mielőtt munkába indult. Amikor a szomszéd látta, hogy napok óta tele van, tudta, hogy valami baj történt."
+    },
+    "en": {
+      "title": "The Full Mailbox",
+      "riddle": "A man is found dead in front of his house. His mailbox is full of letters, even though he empties it daily. Why is this suspicious?",
+      "solution": "He was a mailman, and his routine was to empty his own mailbox every morning before work. When the neighbor saw it full for days, he realized something was wrong."
+    }
+  },
+  {
+    "id": 171,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A kihűlt vacsora",
+      "riddle": "Egy nő hazaér, és az asztalon terített vacsorát talál. A férje holtan fekszik a nappaliban. A vacsora érintetlen. Miért gyanús ez?",
+      "solution": "A férfi mindig evés előtt bekapcsolta a tévét. A nő tudta, hogy soha nem ülne le csendben enni. A vacsora érintetlensége jelezte, hogy hirtelen halál érte."
+    },
+    "en": {
+      "title": "The Cold Dinner",
+      "riddle": "A woman comes home and finds dinner set on the table. Her husband lies dead in the living room. The meal is untouched. Why is this suspicious?",
+      "solution": "The man always turned on the TV before eating. The untouched dinner showed he died suddenly before he could start his usual routine."
+    }
+  },
+  {
+    "id": 172,
+    "category": "macabre",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lezárt műhely",
+      "riddle": "Egy férfit holtan találnak a műhelyében. Az ajtó belülről zárva, a szerszámok érintetlenek. A férfi arcán mosoly. Mi történt?",
+      "solution": "A férfi órásmester volt, és egy ritka órát javított. A mechanizmusban lévő régi radioaktív festék lassan mérgezte meg. A mosoly azért volt az arcán, mert épp befejezte a javítást, mielőtt összeesett."
+    },
+    "en": {
+      "title": "The Locked Workshop",
+      "riddle": "A man is found dead in his workshop. The door is locked from the inside, tools untouched, and he is smiling. What happened?",
+      "solution": "He was a watchmaker repairing a rare vintage watch. Its old radioactive paint poisoned him slowly. He smiled because he had just finished the repair before collapsing."
+    }
+  },
+  {
+    "id": 172,
+    "category": "macabre",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lezárt műhely",
+      "riddle": "Egy férfit holtan találnak a műhelyében. Az ajtó belülről zárva, a szerszámok érintetlenek. A férfi arcán mosoly. Mi történt?",
+      "solution": "A férfi órásmester volt, és egy ritka órát javított. A mechanizmusban lévő régi radioaktív festék lassan mérgezte meg. A mosoly azért volt az arcán, mert épp befejezte a javítást, mielőtt összeesett."
+    },
+    "en": {
+      "title": "The Locked Workshop",
+      "riddle": "A man is found dead in his workshop. The door is locked from the inside, tools untouched, and he is smiling. What happened?",
+      "solution": "He was a watchmaker repairing a rare vintage watch. Its old radioactive paint poisoned him slowly. He smiled because he had just finished the repair before collapsing."
+    }
+  },
+  {
+    "id": 173,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A furcsa csengés",
+      "riddle": "Egy férfi meghal, miközben a telefonja folyamatosan cseng. A rendőrök szerint a hívás okozta a halálát. Hogyan?",
+      "solution": "A férfi pacemakerrel élt. A telefonja egy erős mágneses tokban volt, ami a sok rezgés miatt elmozdult és leállította a pacemakert."
+    },
+    "en": {
+      "title": "The Strange Ringing",
+      "riddle": "A man dies while his phone keeps ringing. Police say the call caused his death. How?",
+      "solution": "He had a pacemaker. His phone was in a strong magnetic case, and the repeated vibrations shifted it enough to interfere with the pacemaker."
+    }
+  },
+  {
+    "id": 174,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A sötét pince",
+      "riddle": "Egy férfit holtan találnak a pincében. A villanykörte ép, de nincs felkapcsolva. A férfi kezében egy üres gyufa. Mi történt?",
+      "solution": "A férfi klausztrofóbiás volt. A villanykapcsoló elromlott, és ő gyufával próbált fényt gyújtani. A sötétben pánikrohamot kapott, és szívmegállás következtében meghalt."
+    },
+    "en": {
+      "title": "The Dark Basement",
+      "riddle": "A man is found dead in his basement. The bulb is intact but off. He holds a burnt matchstick. What happened?",
+      "solution": "He was severely claustrophobic. The light switch failed, and he tried to use a match. The darkness triggered a fatal panic attack."
+    }
+  },
+  {
+    "id": 175,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A csendes óra",
+      "riddle": "Egy nő belép a nappaliba, és azonnal tudja, hogy a férje meghalt, pedig még nem látja a holttestet. Miért?",
+      "solution": "A falióra mindig hangosan kattogott. A férfi minden este felhúzta. A nő tudta, hogy ha csend van, akkor a férje nem húzta fel — vagyis már nem él."
+    },
+    "en": {
+      "title": "The Silent Clock",
+      "riddle": "A woman enters the living room and instantly knows her husband is dead, even before seeing the body. Why?",
+      "solution": "The loud ticking wall clock needed to be wound daily. Her husband always wound it. The silence meant he hadn’t — meaning he was already dead."
+    }
+  },
+  {
+    "id": 176,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A lezárt kabin",
+      "riddle": "Egy férfit holtan találnak egy hegyi felvonó kabinjában. A kabin zárva volt, a felvonó nem mozgott. Mi történt?",
+      "solution": "A férfi oxigénhiány miatt halt meg. A kabin szellőzője eljegesedett, és a felvonó éjszakára leállt, így senki sem vette észre, hogy bennrekedt."
+    },
+    "en": {
+      "title": "The Sealed Cable Car",
+      "riddle": "A man is found dead inside a mountain cable car. The cabin was locked, and the lift wasn’t running. What happened?",
+      "solution": "He died of oxygen deprivation. The cabin’s vent froze shut, and the lift was stopped overnight, trapping him unnoticed."
+    }
+  },
+  {
+    "id": 177,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A hangos szomszéd",
+      "riddle": "Egy férfi meghal, miközben a szomszédja hangosan zenét hallgat. A rendőrök szerint a zene okozta a halálát. Hogyan?",
+      "solution": "A férfi epilepsziás volt, és a basszus rezgései kiváltották a rohamot."
+    },
+    "en": {
+      "title": "The Loud Neighbor",
+      "riddle": "A man dies while his neighbor plays loud music. Police say the music caused his death. How?",
+      "solution": "He had epilepsy, and the strong bass vibrations triggered a fatal seizure."
+    }
+  },
+  {
+    "id": 178,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A lezárt széf",
+      "riddle": "Egy férfit holtan találnak a dolgozószobájában. A széf nyitva, de üres. A férfi mosolyog. Miért?",
+      "solution": "A férfi ritka bélyegeket gyűjtött, és végre megtalálta a hiányzó darabot. A széfben tartotta. A bélyeg azonban mérgezett volt — a ragasztóanyag régi arzént tartalmazott."
+    },
+    "en": {
+      "title": "The Open Safe",
+      "riddle": "A man is found dead in his study. The safe is open but empty. He is smiling. Why?",
+      "solution": "He collected rare stamps and finally obtained a missing piece. The stamp’s old adhesive contained arsenic, which poisoned him."
+    }
+  },
+  {
+    "id": 179,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A furcsa szélcsend",
+      "riddle": "Egy vitorlázó holtan esik össze a fedélzeten. A hajó mozdulatlan, pedig erős szél fúj. Miért?",
+      "solution": "A férfi a vitorlát állította, és a kötél hirtelen megfeszült, ami a mellkasát ütötte meg. A szívét érte az ütés, ami azonnali halált okozott."
+    },
+    "en": {
+      "title": "The Strange Calm",
+      "riddle": "A sailor collapses dead on deck. The boat is motionless despite strong wind. Why?",
+      "solution": "He was adjusting the sail when a rope snapped tight and struck his chest, causing instant cardiac arrest."
+    }
+  },
+  {
+    "id": 179,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A furcsa szélcsend",
+      "riddle": "Egy vitorlázó holtan esik össze a fedélzeten. A hajó mozdulatlan, pedig erős szél fúj. Miért?",
+      "solution": "A férfi a vitorlát állította, és a kötél hirtelen megfeszült, ami a mellkasát ütötte meg. A szívét érte az ütés, ami azonnali halált okozott."
+    },
+    "en": {
+      "title": "The Strange Calm",
+      "riddle": "A sailor collapses dead on deck. The boat is motionless despite strong wind. Why?",
+      "solution": "He was adjusting the sail when a rope snapped tight and struck his chest, causing instant cardiac arrest."
+    }
+  },
+  {
+    "id": 180,
+    "category": "tragic",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A csendes zongora",
+      "riddle": "Egy zongorista holtan esik össze a színpadon. A közönség nem érti, miért, hiszen a zene tovább szól. Mi történt?",
+      "solution": "A zongorista playbackre játszott, mert sérült volt a keze. A valóságban rosszul lett, de a közönség azt hitte, a zene tőle származik."
+    },
+    "en": {
+      "title": "The Silent Piano",
+      "riddle": "A pianist collapses dead on stage. The audience is confused because the music continues. What happened?",
+      "solution": "He was miming to a playback due to an injury. When he collapsed, the audience thought the music was still his performance."
+    }
+  },
+  {
+    "id": 181,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A kihűlt medence",
+      "riddle": "Egy férfit holtan találnak a saját medencéjében. A víz hideg, pedig előző este még meleg volt. A férfi nem fulladt meg. Mi történt?",
+      "solution": "A férfi szívritmus-szabályozóval élt, amelyet a medence fűtőrendszere zavart meg. Amikor a fűtés éjszaka automatikusan kikapcsolt, a hirtelen hőmérsékletváltozás leállította a pacemakert."
+    },
+    "en": {
+      "title": "The Cold Pool",
+      "riddle": "A man is found dead in his own swimming pool. The water is cold, though it was warm the night before. He didn’t drown. What happened?",
+      "solution": "He had a pacemaker that was disrupted by the pool’s heating system. When the heater shut off overnight, the sudden temperature drop caused his pacemaker to fail."
+    }
+  },
+  {
+    "id": 182,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A lezárt üvegház",
+      "riddle": "Egy kertész holtan fekszik az üvegházában. Az ajtó belülről zárva, a növények kiszáradva. Mi történt?",
+      "solution": "A kertész automata párásítót használt, amely meghibásodott és mérgező gázokat bocsátott ki. A növények elpusztultak, ő pedig belélegezte a gázt."
+    },
+    "en": {
+      "title": "The Sealed Greenhouse",
+      "riddle": "A gardener is found dead inside his greenhouse. The door is locked from the inside, and the plants are dried out. What happened?",
+      "solution": "His automatic humidifier malfunctioned and released toxic fumes. The plants died first, and he inhaled the gas."
+    }
+  },
+  {
+    "id": 183,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A csendes tenger",
+      "riddle": "Egy búvár holtan lebeg a víz felszínén. A felszerelése hibátlan, a levegőpalack tele. Miért halt meg?",
+      "solution": "A búvár mélyen merült, majd túl gyorsan emelkedett fel. A dekompressziós betegség miatt azonnali keringésleállást kapott."
+    },
+    "en": {
+      "title": "The Silent Sea",
+      "riddle": "A diver floats dead on the surface. His equipment is intact, and his air tank is full. Why did he die?",
+      "solution": "He ascended too quickly from a deep dive, causing fatal decompression sickness."
+    }
+  },
+  {
+    "id": 184,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A furcsa fénykép",
+      "riddle": "Egy nő meghal, miután megnéz egy fényképet a telefonján. A kép nem ártalmas. Miért?",
+      "solution": "A képen a nő férje volt egy hegytetőn, ahol a nő tudta, hogy előző nap lavina volt. Rájött, hogy a férje meghalt, és a sokk miatt szívrohamot kapott."
+    },
+    "en": {
+      "title": "The Strange Photograph",
+      "riddle": "A woman dies after looking at a photo on her phone. The photo is harmless. Why?",
+      "solution": "The photo showed her husband on a mountain where she knew a deadly avalanche had occurred the day before. Realizing he was dead, she suffered a fatal heart attack."
+    }
+  },
+  {
+    "id": 185,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A lezárt öltöző",
+      "riddle": "Egy sportoló holtan fekszik az öltözőben. Az ajtó belülről zárva, a zuhany megy. Mi történt?",
+      "solution": "A sportoló asztmás volt. A forró gőz miatt a levegő páratartalma túl magas lett, és rohamot kapott."
+    },
+    "en": {
+      "title": "The Locked Locker Room",
+      "riddle": "An athlete is found dead in the locker room. The door is locked from the inside, and the shower is running. What happened?",
+      "solution": "He had asthma. The hot steam raised humidity to dangerous levels, triggering a fatal attack."
+    }
+  },
+  {
+    "id": 186,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A csendes rádió",
+      "riddle": "Egy férfi meghal, miközben a rádiója halkan szól. A rendőrök szerint a rádió okozta a halálát. Hogyan?",
+      "solution": "A férfi alvás közben rádiót hallgatott. A készülék akkumulátora túlmelegedett és mérgező gázokat bocsátott ki."
+    },
+    "en": {
+      "title": "The Quiet Radio",
+      "riddle": "A man dies while his radio plays softly. Police say the radio caused his death. How?",
+      "solution": "The radio’s battery overheated during the night and released toxic fumes, which he inhaled."
+    }
+  },
+  {
+    "id": 187,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A lezárt liftakna",
+      "riddle": "Egy férfit holtan találnak egy liftaknában. A lift működött, az ajtók épek. Hogyan került oda?",
+      "solution": "A férfi karbantartó volt, és a lift automata rendszere nem érzékelte, hogy a kézi üzemmódot bekapcsolta. A lift elindult, miközben ő az aknában volt."
+    },
+    "en": {
+      "title": "The Sealed Shaft",
+      "riddle": "A man is found dead in an elevator shaft. The elevator works, and the doors are intact. How did he get there?",
+      "solution": "He was a technician. The lift’s automatic system didn’t detect that he had switched to manual mode, so it moved while he was inside the shaft."
+    }
+  },
+  {
+    "id": 188,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A furcsa csönd",
+      "riddle": "Egy férfi meghal, miután a szomszédja elmegy otthonról. A szomszéd nem tett semmit. Miért?",
+      "solution": "A férfi a szomszéd hangos lépteire támaszkodott, hogy tudja, mikor mozog a házban. Amikor a szomszéd elment, a férfi azt hitte, betörő van, és pánikrohamot kapott."
+    },
+    "en": {
+      "title": "The Strange Silence",
+      "riddle": "A man dies after his neighbor leaves home. The neighbor did nothing. Why?",
+      "solution": "The man relied on the neighbor’s loud footsteps to know someone was around. When the neighbor left, he mistook the silence for an intruder and suffered a fatal panic attack."
+    }
+  },
+  {
+    "id": 189,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lezárt stúdió",
+      "riddle": "Egy fotóst holtan találnak a stúdiójában. A vaku felszerelve, de nem villant. Mi történt?",
+      "solution": "A fotós epilepsziás volt, és a vaku tesztvillanása kiváltotta a rohamot. A roham után összeesett, és a fejét beverte."
+    },
+    "en": {
+      "title": "The Locked Studio",
+      "riddle": "A photographer is found dead in his studio. The flash is mounted but didn’t fire. What happened?",
+      "solution": "He had epilepsy. A test flash triggered a seizure, and he collapsed, fatally hitting his head."
+    }
+  },
+  {
+    "id": 190,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A csendes csengő",
+      "riddle": "Egy nő meghal, miközben a ház csengője folyamatosan szól. A csengő nem ér hozzá. Miért?",
+      "solution": "A nő pacemakerrel élt, és a csengő elektromágneses zavara leállította a készüléket."
+    },
+    "en": {
+      "title": "The Silent Doorbell",
+      "riddle": "A woman dies while the house’s doorbell rings continuously. No one touches it. Why?",
+      "solution": "She had a pacemaker, and the doorbell’s electromagnetic interference caused it to fail."
+    }
+  },
+  {
+    "id": 191,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A kihűlt kávé",
+      "riddle": "Egy férfit holtan találnak az irodájában. Az asztalán egy csésze kávé, teljesen kihűlve. A férfi mindig forrón issza. Miért gyanús ez?",
+      "solution": "A férfi minden reggel pontosan ugyanabban az időben készítette el a kávét. A kihűlt ital azt jelentette, hogy órákkal korábban meghalt, mielőtt megihatta volna."
+    },
+    "en": {
+      "title": "The Cold Coffee",
+      "riddle": "A man is found dead in his office. A cup of coffee sits on his desk, completely cold. He always drinks it hot. Why is this suspicious?",
+      "solution": "He brewed his coffee at the same exact time every morning. The cold cup indicated he died hours earlier, before he could drink it."
+    }
+  },
+  {
+    "id": 192,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lezárt próbaterem",
+      "riddle": "Egy zenész holtan fekszik a próbateremben. A hangszere érintetlen, a mikrofon bekapcsolva. Mi történt?",
+      "solution": "A zenész allergiás volt a hangszigetelő szivacsra. A hosszú próba alatt a szivacsból felszabaduló por allergiás rohamot váltott ki."
+    },
+    "en": {
+      "title": "The Locked Rehearsal Room",
+      "riddle": "A musician is found dead in the rehearsal room. His instrument is untouched, and the microphone is on. What happened?",
+      "solution": "He was allergic to the soundproofing foam. Dust released during the long session triggered a fatal allergic reaction."
+    }
+  },
+  {
+    "id": 193,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A csendes ventilátor",
+      "riddle": "Egy férfi meghal a hálószobájában. A ventilátor kikapcsolva, pedig mindig jár. Miért volt ez gyanús?",
+      "solution": "A férfi alvási apnoéval küzdött, és a ventilátor légárama segítette a légzését. Amikor a készülék meghibásodott, a férfi nem kapott elég levegőt."
+    },
+    "en": {
+      "title": "The Silent Fan",
+      "riddle": "A man dies in his bedroom. The fan is off, though he always keeps it running. Why was this suspicious?",
+      "solution": "He suffered from sleep apnea, and the airflow from the fan helped him breathe. When it malfunctioned, he suffocated."
+    }
+  },
+  {
+    "id": 194,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lezárt stég",
+      "riddle": "Egy férfit holtan találnak egy stégen. A víz nyugodt, a csónakja kikötve. Mi történt?",
+      "solution": "A férfi szívbeteg volt. A víz alatti hirtelen áramlat megmozdította a stéget, amitől elvesztette az egyensúlyát és a sokktól szívrohamot kapott."
+    },
+    "en": {
+      "title": "The Quiet Pier",
+      "riddle": "A man is found dead on a pier. The water is calm, and his boat is tied. What happened?",
+      "solution": "He had a heart condition. A sudden underwater current shifted the pier slightly, startling him and triggering a fatal heart attack."
+    }
+  },
+  {
+    "id": 195,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A furcsa csomag",
+      "riddle": "Egy nő holtan esik össze, miután kinyit egy postai csomagot. A csomagban csak egy üres doboz van. Miért halt meg?",
+      "solution": "A csomagban egy erős illatanyaggal átitatott papír volt, amelyre allergiás volt. A sokk miatt anafilaxiás rohamot kapott."
+    },
+    "en": {
+      "title": "The Strange Package",
+      "riddle": "A woman collapses dead after opening a postal package. Inside is only an empty box. Why did she die?",
+      "solution": "The box contained a sheet soaked in a strong fragrance she was severely allergic to. The shock caused an anaphylactic reaction."
+    }
+  },
+  {
+    "id": 196,
+    "category": "tragic",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A csendes futópad",
+      "riddle": "Egy férfit holtan találnak az edzőteremben. A futópad kikapcsolva, pedig rajta áll. Mi történt?",
+      "solution": "A férfi szívritmuszavarral küzdött. A futópad hirtelen leállt, és a hirtelen mozdulat megzavarta a szívverését."
+    },
+    "en": {
+      "title": "The Silent Treadmill",
+      "riddle": "A man is found dead in the gym. The treadmill is off, yet he is standing on it. What happened?",
+      "solution": "He had arrhythmia. The treadmill suddenly stopped, and the abrupt change triggered a fatal heart rhythm disturbance."
+    }
+  },
+  {
+    "id": 197,
+    "category": "macabre",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A lezárt hangár",
+      "riddle": "Egy pilótát holtan találnak a hangárban. A repülőgép érintetlen, a hangár ajtaja belülről zárva. Mi történt?",
+      "solution": "A pilóta a gép motorját tesztelte, és a kipufogógáz lassan megtöltötte a hangárt. A szén-monoxid megölte."
+    },
+    "en": {
+      "title": "The Locked Hangar",
+      "riddle": "A pilot is found dead in the hangar. The plane is untouched, and the door is locked from the inside. What happened?",
+      "solution": "He tested the aircraft engine, and exhaust fumes slowly filled the hangar. Carbon monoxide killed him."
+    }
+  },
+  {
+    "id": 198,
+    "category": "mystery",
+    "difficulty": "easy",
+    "hu": {
+      "title": "A kihűlt kandalló",
+      "riddle": "Egy férfi holtan fekszik a nappaliban. A kandalló hideg, pedig mindig fűt. Miért volt ez gyanús?",
+      "solution": "A férfi a kandalló melegére támaszkodott, mert rossz volt a keringése. Amikor a kandalló elromlott, a hideg sokkot okozott."
+    },
+    "en": {
+      "title": "The Cold Fireplace",
+      "riddle": "A man is found dead in the living room. The fireplace is cold, though he always keeps it lit. Why was this suspicious?",
+      "solution": "He relied on the fireplace’s warmth due to poor circulation. When it failed, the sudden cold caused fatal shock."
+    }
+  },
+  {
+    "id": 199,
+    "category": "mystery",
+    "difficulty": "medium",
+    "hu": {
+      "title": "A lezárt próbafülke",
+      "riddle": "Egy nő holtan fekszik egy ruhabolt próbafülkéjében. A függöny behúzva, a ruha a földön. Mi történt?",
+      "solution": "A nő klausztrofóbiás volt, és a szűk fülkében pánikrohamot kapott. A roham miatt összeesett."
+    },
+    "en": {
+      "title": "The Locked Changing Booth",
+      "riddle": "A woman is found dead in a clothing store’s changing booth. The curtain is closed, and the dress lies on the floor. What happened?",
+      "solution": "She suffered from claustrophobia. The tight booth triggered a panic attack, causing her to collapse."
+    }
+  },
+  {
+    "id": 200,
+    "category": "tragic",
+    "difficulty": "hard",
+    "hu": {
+      "title": "A csendes metronóm",
+      "riddle": "Egy karmester holtan esik össze a próbán. A metronóm nem kattog, pedig mindig használja. Mi történt?",
+      "solution": "A karmester szívbeteg volt, és a metronóm ritmusa segítette a légzését. Amikor a készülék lemerült, a hirtelen csend pánikrohamot váltott ki, ami szívmegálláshoz vezetett."
+    },
+    "en": {
+      "title": "The Silent Metronome",
+      "riddle": "A conductor collapses dead during rehearsal. The metronome is silent, though he always uses it. What happened?",
+      "solution": "He had a heart condition, and the metronome’s rhythm helped regulate his breathing. When it died, the sudden silence triggered panic and cardiac arrest."
+    }
+  }  
+]
